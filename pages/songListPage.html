@@ -1,0 +1,56 @@
+<div id="songListPage">
+
+	<a id="backToWordCloud">Back to Word Cloud</a>
+	
+	<h1 id="songListTitle">Song List Page</h1>
+	
+	<ul id="songList"></ul>
+	
+</div>
+
+<style>
+	/* Here put styles that only apply to this page */
+</style>
+
+<script>
+
+	// Set the title (of document and header)
+	var title = word.charAt(0).toUpperCase() + word.substring(1);
+	document.title = title;
+	$("#songListTitle").text(title);
+	
+	// Set up Song List
+	
+	$.each(songs, function(index, song) { // count the word in each song
+		
+		// Count the occurances of the word
+		var wordMatches = song.lyrics.match(new RegExp("/" + word + "/i"));
+		song.wordCount = 0;
+		if (wordMatches != null) {
+			song.wordCount = wordMatches.length;
+		}
+	})
+	
+	songs.sort(function(a, b) { // sort songs by word count, descending
+		return b.wordCount - a.wordCount;
+	});
+	
+	$.each(songs, function(index, song) { // add each song to the list
+		$("#songList").append("<li><a class='songListLink' value='" + index + "'>" + song.title + "</a> by " + song.artist + " (" + song.wordCount + " occurances)</li>");
+	})
+	
+	// set up links
+	
+	$(".songListLink").click(function() {
+		song = songs[$(this).attr("value")];
+			
+		loadPage("lyrics");
+	});
+	
+		
+	// Set up back button
+	$("#backToWordCloud").click(function() {
+		loadPage("wordCloud");
+	});
+
+</script>

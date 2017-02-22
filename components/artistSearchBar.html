@@ -1,0 +1,74 @@
+<!--
+
+Load this document into a div to turn that div into an Artist Search Bar.
+
+An Artist Search Bar responds to the 'clear' event.
+
+An Artist Search Bar will provide the 'yesSelection' and 'noSelection' events.
+
+-->
+
+<input type="text" id="artistSearchTextField" />
+
+<style>
+	.ui-helper-hidden-accessible {
+		display: none;
+	}
+	
+	/* Here put styles that only apply to the Artist Search Bar */
+</style>
+
+<script>
+	
+	var searchBar = $("#artistSearchTextField").parent();
+	
+	// Define a search object that is correctly formatted for the jQuery UI autocomplete widget
+	// This object is a transformation of the allArtists global object
+	var searchObject = [];
+	$.each(allArtists, function(id, artist) {
+		searchObject.push({
+			value: artist.chartLyricsID,
+			label: artist.name,
+			popularity: artist.popularity,
+			imageURL: artist.imageURL
+		});
+	});
+	
+	// Create the autocomplete
+	$("#artistSearchTextField").autocomplete({
+		minLength: 3,
+		source: searchObject,
+		response: function(event, ui) { // before display suggestions
+			
+			// TODO: sort suggestions (ui.content) by artist popularity and filter to only ~3 results (see http://api.jqueryui.com/autocomplete/#event-response)
+			
+		},
+		select: function(event, ui) { // on select
+			
+			// Update values
+			$("#artistSearchTextField").val(ui.item.label);
+			searchBar.attr("value", ui.item.value);
+			
+			searchBar.trigger("yesSelection"); // artist selected
+			
+			return false;
+		}
+	})
+	.on('input propertychange paste', function() {
+		searchBar.trigger("noSelection"); // no artist selected
+	})
+	.autocomplete( "instance" )._renderItem = function( ul, item ) {
+	  
+	  // TODO: Make this look good (see http://jqueryui.com/autocomplete/#custom-data)
+	  
+	  return $( "<li>" )
+		.append( "<div>" + item.label + "</div>" )
+		.appendTo( ul );
+	};
+	
+	searchBar.on('clear', function() {
+		$("#artistSearchTextField").val("");
+		searchBar.trigger("noSelection");
+	})
+	
+</script>

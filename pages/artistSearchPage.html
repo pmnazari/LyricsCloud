@@ -1,0 +1,34 @@
+<div id="artistSearchPage">
+	
+	<h2>Artist Search Page</h2>
+	
+	<div id="artistSearchBar"></div>
+	<input type="button" id="search" value="Search" disabled="true" />
+		
+</div>
+
+<style>
+	/* Here put styles that only apply to this page */
+</style>
+
+<script>
+
+	$("#artistSearchBar")
+		.load("components/artistSearchBar.html")
+		.on("yesSelection", function() {		
+			$("#search").removeProp("disabled");
+		})
+		.on("noSelection", function() {
+			$("#search").attr("disabled", true);
+		});
+
+	$("#search").click(function() {
+		
+		var artistID = $("#artistSearchBar").attr("value");
+		artists = [allArtists[6541]];
+		// TODO: artists = [allArtists[artistID]];
+	
+		loadPage("wordCloud");
+	});
+
+</script>

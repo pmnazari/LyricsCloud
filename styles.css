@@ -1,0 +1,11 @@
+
+body {
+	background-color: #EEE;
+}
+
+a {
+	color: blue;
+	text-decoration: underline;
+}
+
+/* here put styles that need to apply to all pages */

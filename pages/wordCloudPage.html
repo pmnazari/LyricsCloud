@@ -1,0 +1,142 @@
+<div id="wordCloudPage">
+	
+	<h1 id="wordCloudTitle">Word Cloud Page</h1>
+	
+	<div id="wordCloud"></div>
+	
+	<div id="artistSearchBar"></div>
+	<input type="button" id="search" value="Search" disabled="true" />
+	<input type="button" id="add" value="Add" disabled="true" />
+	<input type="button" id="share" value="Share" disabled="true" />
+	
+</div>
+
+<style>
+	/* Here put styles that only apply to this page */
+</style>
+
+<script>
+	
+	///
+	//FUNCTIONS:
+	///		
+	
+	function generateLyricsCloud() {
+		
+		// TODO: generate lyrics cloud from 'songs' global var
+		// put HTML lyrics cloud in #wordCloud element
+		// save lyrics cloud image in case of sharing
+		
+		$("#wordCloud").html("<a class='wordCloudLink' value='word' style='color:purple'>" + songs[0].lyrics + "</a>"); // temporary
+		
+		$(".wordCloudLink").click(function() {
+			word = $(this).attr("value");
+			
+			loadPage("songList");
+		})
+		
+		$("#share").removeProp("disabled");
+	}
+	
+	// Call this function when the page first loads and then whenever an artist is searched/added
+	function queryArtists(a) {
+	
+		// Set the title (of document and header)
+		var title = ""
+		$.each(artists, function(index, artist) {
+			title += ", " + artist.name;
+		});
+		title = title.substring(2);
+		
+		document.title = title;
+		$("#wordCloudTitle").text(title);
+	
+		// TODO: set a good loading animation (like a spinning wheel)
+		$("#wordCloud").html("<h3 style='color:red'>Loading...</h3>");
+		$("#share").attr("disabled", true);
+			
+		// Load the lyrics and generate the word cloud
+		$.ajax({ // Load artist lyrics
+			url: "ajax/artistSongs.php",
+			data: {ids: a}, // TODO: fix this parameter
+			dataType: "json",
+			success: function(data) {
+				
+				// save the results
+				$.each(data, function(index, song) {
+					songs.push(song);
+				})
+				
+				generateLyricsCloud()
+			}
+		});
+	}
+	
+	// Call this function when the page first loads and then whenever an artist searched
+	function searchArtists(a) {
+		artists = a;
+		songs = [];
+		
+		queryArtists(a);
+	}
+
+	// Call this function whenever an artist is added
+	function addArtist(a) {
+	
+		// Don't add an artist that we already have
+		if ($.inArray(a, artists) >= 0) {
+			return;
+		}
+	
+		artists.push(a);
+		
+		queryArtists(a);
+	}
+	
+	///
+	//ON LOAD:
+	///
+	
+	// Initialize the lyrics cloud
+	searchArtists(artists);
+	
+	// Set up the Artist Search Bar
+	$("#artistSearchBar")
+		.load("components/artistSearchBar.html")
+		.on("yesSelection", function() {		
+			$("#search").removeProp("disabled");
+			$("#add").removeProp("disabled");
+		})
+		.on("noSelection", function() {
+			$("#search").attr("disabled", true);
+			$("#add").attr("disabled", true);
+		});
+
+	// Set up the Search Button
+	$('#search').click(function() {
+		
+		$("#artistSearchBar").trigger('clear');
+		
+		var artistID = $("#artistSearchBar").attr("value");
+		searchArtists([allArtists[25644]]);
+		// TODO: searchArtists(allArtists[artistID]);
+	});
+	
+	// Set up the Add Button
+	$('#add').click(function() {
+		
+		$("#artistSearchBar").trigger('clear');
+		
+		var artistID = $("#artistSearchBar").attr("value");
+		addArtist(allArtists[2344]);
+		// TODO: addArtist(allArtists[artistID]);
+	});
+
+	// Set up the Share Button
+	$("#share").click(function() {
+		
+		// TODO: Share to Facebook
+		alert("Share to Facebook!");
+	});
+	
+</script>
