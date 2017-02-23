@@ -1,9 +1,7 @@
 # LyricsCloud
 CSCI 310 Team 17 Lyrics Cloud Project
-
- ---------	
- TODO LIST:
- ---------
+	
+TODO LIST:
 			
 Coding Tasks: (the implemented system is worth 45% of the grade)
 	(1) Make the UI pretty
@@ -18,4 +16,6 @@ Logistical Tasks:
 Document Tasks: (in total, worth 55% of the grade)
 	(7) Validation (worth 15% of the grade)
 	(8) Process Description, following PMP (worth 30% of the grade)
+		(a) Design Process
+		(b) Any PMP-required stuff (config. management, risk monitoring, etc.)
 	(9) Make it look good, aka professionalism (worth 10% of the grade)
