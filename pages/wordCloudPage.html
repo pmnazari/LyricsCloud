@@ -39,7 +39,7 @@
 	}
 	
 	// Call this function when the page first loads and then whenever an artist is searched/added
-	function queryArtists(a) {
+	function queryArtists(artistsToQuery) {
 	
 		// Set the title (of document and header)
 		var title = ""
@@ -55,10 +55,19 @@
 		$("#wordCloud").html("<h3 style='color:red'>Loading...</h3>");
 		$("#share").attr("disabled", true);
 			
+		// Make the parameter object
+		
+		console.log(artistsToQuery);
+		
+		var ids = [];
+		$.each(artistsToQuery, function(key, value) {
+			ids.push(value.chartLyricsID);
+		})
+			
 		// Load the lyrics and generate the word cloud
 		$.ajax({ // Load artist lyrics
-			url: "ajax/artistSongs.php",
-			data: {ids: a}, // TODO: fix this parameter
+			url: noServer ? "ajax/artistSongs_debug.json" : "ajax/artistSongs.php",
+			data: {ids: ids}, // TODO: fix this parameter
 			dataType: "json",
 			success: function(data) {
 				
@@ -74,6 +83,7 @@
 	
 	// Call this function when the page first loads and then whenever an artist searched
 	function searchArtists(a) {
+		
 		artists = a;
 		songs = [];
 		
@@ -90,7 +100,7 @@
 	
 		artists.push(a);
 		
-		queryArtists(a);
+		queryArtists([a]);
 	}
 	
 	///
@@ -98,7 +108,11 @@
 	///
 	
 	// Initialize the lyrics cloud
-	searchArtists(artists);
+	if (songs.length > 0) { // we're coming back to this page
+		generateLyricsCloud();
+	} else { // first time to this page
+		searchArtists(artists);
+	}
 	
 	// Set up the Artist Search Bar
 	$("#artistSearchBar")
@@ -118,8 +132,7 @@
 		$("#artistSearchBar").trigger('clear');
 		
 		var artistID = $("#artistSearchBar").attr("value");
-		searchArtists([allArtists[25644]]);
-		// TODO: searchArtists(allArtists[artistID]);
+		searchArtists([allArtists[artistID]]);
 	});
 	
 	// Set up the Add Button
@@ -128,8 +141,7 @@
 		$("#artistSearchBar").trigger('clear');
 		
 		var artistID = $("#artistSearchBar").attr("value");
-		addArtist(allArtists[2344]);
-		// TODO: addArtist(allArtists[artistID]);
+		addArtist(allArtists[artistID]);
 	});
 
 	// Set up the Share Button

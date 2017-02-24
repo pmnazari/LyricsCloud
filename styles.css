@@ -8,4 +8,8 @@ a {
 	text-decoration: underline;
 }
 
+.highlight {
+	background-color: yellow;
+}
+
 /* here put styles that need to apply to all pages */

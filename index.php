@@ -4,7 +4,14 @@
 		<link rel="stylesheet" type="text/css" href="styles.css">
 		<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		<script src="scripts/helper.js"></script>
 		<script>
+		
+			///
+			// Determine if no-server mode:
+			///
+			
+			var noServer = (document.location.search.indexOf("no-server") != -1);
 			
 			////
 			// Page Loading Infrastructure:
@@ -57,7 +64,7 @@
 				preparePage("lyrics", "pages/lyricsPage.html");
 				
 				$.ajax({ // Load all artist metadata from the server
-					url: "ajax/allArtistMetadata.php",
+					url: noServer ? "cache/artists.json" : "ajax/allArtistMetadata.php",
 					dataType: "json",
 					async: false,
 					success: function(data) {
@@ -67,6 +74,7 @@
 				
 				loadPage("artistSearch"); // Display the first page
 			});
+			
 		</script>
 	</head>
 	<body>

@@ -24,7 +24,7 @@
 	$.each(songs, function(index, song) { // count the word in each song
 		
 		// Count the occurances of the word
-		var wordMatches = song.lyrics.match(new RegExp("/" + word + "/i"));
+		var wordMatches = song.lyrics.match(regexForWord(word));
 		song.wordCount = 0;
 		if (wordMatches != null) {
 			song.wordCount = wordMatches.length;
@@ -36,7 +36,9 @@
 	});
 	
 	$.each(songs, function(index, song) { // add each song to the list
-		$("#songList").append("<li><a class='songListLink' value='" + index + "'>" + song.title + "</a> by " + song.artist + " (" + song.wordCount + " occurances)</li>");
+		if (song.wordCount > 0) {
+			$("#songList").append("<li><a class='songListLink' value='" + index + "'>" + song.title + "</a> by " + song.artist + " (" + song.wordCount + " occurances)</li>");
+		}
 	})
 	
 	// set up links

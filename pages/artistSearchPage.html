@@ -9,8 +9,6 @@
 
 <style>
 	/* Here put styles that only apply to this page */
-    
-    /*nslfkjs*/
 </style>
 
 <script>
@@ -27,8 +25,7 @@
 	$("#search").click(function() {
 		
 		var artistID = $("#artistSearchBar").attr("value");
-		artists = [allArtists[6541]];
-		// TODO: artists = [allArtists[artistID]];
+		artists = [allArtists[artistID]]
 	
 		loadPage("wordCloud");
 	});

@@ -20,8 +20,11 @@
 	document.title = title;
 	$("#lyricsTitle").text(title);
 
-	// TODO: highlight word
-	$("#lyrics").text(song.lyrics);
+	// Highlight the words
+	var highlightedLyrics = song.lyrics.replace(regexForWord(word), function(match) {	
+		return "<span class='highlight'>" + match + "</span>";
+	});
+	$("#lyrics").html(highlightedLyrics);
 	
 	// Set up back buttons
 	$("#backToWordCloud").click(function() {

@@ -39,9 +39,12 @@ An Artist Search Bar will provide the 'yesSelection' and 'noSelection' events.
 		minLength: 3,
 		source: searchObject,
 		response: function(event, ui) { // before display suggestions
+						
+			ui.content.sort(function(a, b) { // sort suggestions by popularity, descending
+				return b.popularity - a.popularity;
+			});
 			
-			// TODO: sort suggestions (ui.content) by artist popularity and filter to only ~3 results (see http://api.jqueryui.com/autocomplete/#event-response)
-			
+			ui.content.splice(5); // only return 5 suggestions
 		},
 		select: function(event, ui) { // on select
 			
