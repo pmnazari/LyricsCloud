@@ -22,13 +22,44 @@
         body {
             background-color: gray;
         }
-              
+        
+        
+        .right {
+            text-align: center;
+            left: 10;
+            line-height: 200px;
+            margin: auto;
+            margin-top: -100px;
+            position: absolute;
+            top: 30%;
+            width: 110%;
+        }
+        
+        
+        
+        .button {
+            position: relative;
+            background-color: purple;
+            border: none;
+            color: black;
+            padding: 13px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
         </style>
     </head>
     <body>
         
         <h1>Artist Search Page</h1>
-        <input type="button" id="search" value="Search" disabled="true" />
+        <div class="right">
+            <input type="button" id="search" class="button" value="Search" disabled="true" />
+        </div>
+        
+        
         
     </body>
 </html>
