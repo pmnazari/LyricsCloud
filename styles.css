@@ -1,6 +1,6 @@
 
 body {
-	background-color: #EEE;
+	background-color: grey;
 }
 
 a {
@@ -10,6 +10,28 @@ a {
 
 .highlight {
 	background-color: yellow;
+}
+
+.button {
+    position: relative;
+    border: none;
+    color: black;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    /*cursor: pointer;*/
+}
+
+.button:enabled {
+	cursor: pointer;
+	background-color: purple;
+}
+
+.button:disabled {
+	background-color: #825882;
 }
 
 /* here put styles that need to apply to all pages */

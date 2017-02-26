@@ -21,9 +21,7 @@
 
 
 <style>
-    body {
-        background-color: gray;
-    }
+
 
 div.relative {
     position: relative;
@@ -40,19 +38,6 @@ h1 {
     position: absolute;
     top: 30%;
     width: 100%;
-}
-.button {
-    position: relative;
-    background-color: purple;
-    border: none;
-    color: black;
-    padding: 13px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
-    margin: 4px 2px;
-    cursor: pointer;
 }
 
 .button2 {
@@ -96,9 +81,11 @@ h1 {
 		
 		// TODO: generate lyrics cloud from 'songs' global var
 		// put HTML lyrics cloud in #wordCloud element
-		// save lyrics cloud image in case of sharing
+		// also draw lyrics cloud in #lyricsCloudCanvas in case of sharing
 		
-		$("#wordCloud").html("<a class='wordCloudLink' value='word' style='color:purple'>" + songs[0].lyrics + "</a>"); // temporary
+		var words = songs[0].lyrics.match(/\b[a-zA-Z']+\b/g);
+		
+		$("#wordCloud").html("<a class='wordCloudLink' value='" + words[0] + "' style='color:purple'>" + words[0] + "</a>"); // temporary
 		
 		$(".wordCloudLink").click(function() {
 			word = $(this).attr("value");
@@ -208,10 +195,7 @@ h1 {
 	// Set up the Artist Search Bar
 	$("#artistSearchBar")
 		.load("components/artistSearchBar.html")
-		.on("yesSelection", function() {
-
-			alert("enable");
-		
+		.on("yesSelection", function() {		
 			$("#search").removeProp("disabled");
 			$("#add").removeProp("disabled");
 		})
