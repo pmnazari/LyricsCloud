@@ -1,21 +1,39 @@
 <div id="wordCloudPage">
-	
-	<h1 id="wordCloudTitle">Word Cloud Page</h1>
-	
-	<div id="wordCloud"></div>
-	
-	<div id="artistSearchBar"></div>
-	<input type="button" id="search" value="Search" disabled="true" />
-	<input type="button" id="add" value="Add" disabled="true" />
-	<input type="button" id="share" value="Share" disabled="true" />
-	
+    
+    <h1 id="wordCloudTitle">Word Cloud Page</h1>
+    
+    <div id="wordCloud"></div>
+    
+    <div id="artistSearchBar"></div>
+    
+    <div class="left">
+        
+        
+        <input type="button" id="search" class="button" value="Search" disabled="true" />
+    </div>
+    
+    <div class="center">
+        <input type="button" id="add"  class="button" value="Add" disabled="true" />
+    </div>
+    
+    
+    
+    
+    <div class="right">
+        <input type="button" id="share" class="button" value="Share" disabled="true" />
+        
+        
+    </div>
+    
 </div>
 
-<style>
 
-body {
-    background-color: gray;
-}
+
+<style>
+    
+    body {
+        background-color: gray;
+    }
 
 div.relative {
     position: relative;
@@ -33,19 +51,64 @@ h1 {
     top: 30%;
     width: 100%;
 }
+.button {
+    position: relative;
+    background-color: purple;
+    border: none;
+    color: black;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.right {
+    text-align: center;
+    left: 10;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 55%;
+    width: 120%;
+}
+
+.center {
+    text-align: center;
+    left: 10;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 55%;
+    width: 100%;
+}
+
+.left {
+    text-align: center;
+    left: 10;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 55%;
+    width: 80%;
+}
 
 
 
 
-
-
-</style>
+    </style>
 
 <script>
 	
 	///
 	//FUNCTIONS:
-	///		
+	///
 	
 	function generateLyricsCloud() {
 		
