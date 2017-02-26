@@ -1,0 +1,1246 @@
+02/24/17 19:21:22 == This is a test
+02/24/17 19:21:22 == This is only a test
+02/24/17 19:25:01 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"1910+Fruitgum+Company""
+
+02/24/17 19:25:38 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"2gether""
+
+02/24/17 19:25:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"2Pac+%26+Outlawz""
+
+02/24/17 19:26:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"4PM""
+
+02/24/17 19:27:25 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"7%C3%90%C2%91""
+
+02/24/17 19:27:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"98+Degrees""
+
+02/24/17 19:27:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"9th+Wonder+%26+Buckshot""
+
+02/24/17 19:28:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%84%C2%8Cechomor""
+
+02/24/17 19:28:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"DJ+%C3%96tzi+%26+Hermes+House+Band""
+
+02/24/17 19:29:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Absolute+Beginner""
+
+02/24/17 19:31:01 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ryan+Adams+%26+The+Cardinals""
+
+02/24/17 19:31:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%90%C3%90%C2%B4%C3%90%C2%B0%C3%90%C2%BF%C3%91%C2%82%C3%90%C2%B0%C3%91%C2%86%C3%90%C2%B8%C3%91%C2%8F""
+
+02/24/17 19:32:35 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%90%C3%90%C2%B3%C3%90%C2%B0%C3%91%C2%82%C3%90%C2%B0+%C3%90%C2%9A%C3%91%C2%80%C3%90%C2%B8%C3%91%C2%81%C3%91%C2%82%C3%90%C2%B8""
+
+02/24/17 19:32:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Age+of+Love""
+
+02/24/17 19:33:04 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Christina+Aguilera%2C+Lil%27+Kim%2C+M%C3%BDa+%26+P%21nk""
+
+02/24/17 19:33:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Diana+Ah+Naid""
+
+02/24/17 19:33:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%9B%C2%B8%C3%A5%C2%B7%C2%9D%C3%A4%C2%B8%C2%83%C3%A7%C2%80%C2%AC""
+
+02/24/17 19:33:45 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%82%C2%A2%C3%A3%C2%83%C2%B3%C3%A3%C2%82%C2%B8%C3%A3%C2%82%C2%A7%C3%A3%C2%83%C2%A9%C3%A3%C2%83%C2%BB%C3%A3%C2%82%C2%A2%C3%A3%C2%82%C2%AD""
+
+02/24/17 19:33:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%90%C3%90%C2%BA%C3%90%C2%B2%C3%90%C2%B0%C3%91%C2%80%C3%90%C2%B8%C3%91%C2%83%C3%90%C2%BC""
+
+02/24/17 19:34:34 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Willy+%26+Willeke+Alberti""
+
+02/24/17 19:35:31 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Alibi+vs.+Rockefeller""
+
+02/24/17 19:35:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%90%C3%90%C2%BB%C3%90%C2%B8%C3%91%C2%81%C3%90%C2%B0""
+
+02/24/17 19:36:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ellen+Allien+%26+Apparat""
+
+02/24/17 19:37:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%A4%C2%A9%C3%A9%C2%87%C2%8E%C3%A6%C2%9C%C2%88%C3%A5%C2%AD%C2%90""
+
+02/24/17 19:38:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"American+Nightmare""
+
+02/24/17 19:39:22 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%AE%C2%89%C3%A5%C2%AE%C2%A4%C3%A5%C2%A5%C2%88%C3%A7%C2%BE%C2%8E%C3%A6%C2%81%C2%B5""
+
+02/24/17 19:39:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%82%C2%A2%C3%A3%C2%83%C2%8A%C3%A3%C2%83%C2%AD%C3%A3%C2%82%C2%B0%C3%A3%C2%83%C2%95%C3%A3%C2%82%C2%A3%C3%A3%C2%83%C2%83%C3%A3%C2%82%C2%B7%C3%A3%C2%83%C2%A5""
+
+02/24/17 19:40:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Andrew+Spencer+%26+The+Vamprockerz""
+
+02/24/17 19:41:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Angel+Theory""
+
+02/24/17 19:41:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Animal+%C3%90%C2%94%C3%90%C2%B6%C3%90%C2%B0Z""
+
+02/24/17 19:41:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Anja+%26+Johnny""
+
+02/24/17 19:42:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Antibalas+Afrobeat+Orchestra""
+
+02/24/17 19:42:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%82%C2%A2%C3%A3%C2%83%C2%B3%C3%A3%C2%83%C2%86%C3%A3%C2%82%C2%A3%C3%A3%C2%83%C2%83%C3%A3%C2%82%C2%AF-%C3%A7%C2%8F%C2%88%C3%A7%C2%90%C2%B2%C3%A5%C2%BA%C2%97-""
+
+02/24/17 19:44:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%90%C3%91%C2%80%C3%90%C2%B8%C3%91%C2%8F""
+
+02/24/17 19:44:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%9C%C2%89%C3%A5%C2%9D%C2%82%C3%A7%C2%BE%C2%8E%C3%A9%C2%A6%C2%99""
+
+02/24/17 19:45:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Louis+Armstrong+%26+Duke+Ellington""
+
+02/24/17 19:46:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Artful+Dodger+%26+Romina+Johnson""
+
+02/24/17 19:47:11 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"ASKA"^20+OR+comment:(American+metal+group%28%3F%29)"
+
+02/24/17 19:48:20 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"ATB+with+Heather+Nova""
+
+02/24/17 19:48:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Chet+Atkins+%26+Mark+Knopfler""
+
+02/24/17 19:50:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Austria3""
+
+02/24/17 19:50:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Avey+Tare+%26+Kr%C3%ADa+Brekkan""
+
+02/24/17 19:51:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Axwell+%26+Sebastian+Ingrosso""
+
+02/24/17 19:51:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Axwell+%26+Sebastian+Ingrosso+vs.+Salem+Al+Fakir""
+
+02/24/17 19:51:10 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%B5%C2%A2%C3%A9%C2%A6%C2%99""
+
+02/24/17 19:51:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"B+Real%2C+Busta+Rhymes%2C+Coolio%2C+LL+Cool+J+%26+Method+Man""
+
+02/24/17 19:52:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Baby+Cham""
+
+02/24/17 19:52:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%8E%C2%92%C3%8E%C2%B1%C3%8E%C2%B2%C3%8F%C2%85%C3%8E%C2%BB%C3%8F%C2%8E%C3%8E%C2%BD%C3%8E%C2%B1""
+
+02/24/17 19:52:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%82%C2%B6%C3%A3%C2%83%C2%BB%C3%A3%C2%83%C2%99%C3%A3%C2%82%C2%A4%C3%A3%C2%83%C2%93%C3%A3%C2%83%C2%BC%C3%A3%C2%82%C2%B9%C3%A3%C2%82%C2%BF%C3%A3%C2%83%C2%BC%C3%A3%C2%82%C2%BA""
+
+02/24/17 19:53:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Baddiel%2C+Skinner+%26+The+Lightning+Seeds""
+
+02/24/17 19:57:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Frans+Bauer+%26+Marianne+Weber""
+
+02/24/17 19:57:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bill+Baylis+%26+Simon+Stewart""
+
+02/24/17 19:58:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bebo+%26+Cigala""
+
+02/24/17 19:59:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Jeff+Beck+Group""
+
+02/24/17 20:00:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ana+Bel%C3%A9n+%26+V%C3%ADctor+Manuel""
+
+02/24/17 20:00:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ben+Folds+and+WASO""
+
+02/24/17 20:01:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tony+Bennett+%26+k.d.+lang""
+
+02/24/17 20:01:31 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"George+Benson+%26+Al+Jarreau""
+
+02/24/17 20:01:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Michel+Berger+%26+Luc+Plamondon""
+
+02/24/17 20:02:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Berryz%C3%A5%C2%B7%C2%A5%C3%A6%C2%88%C2%BF""
+
+02/24/17 20:03:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Beyonc%C3%A9+%26+Shakira""
+
+02/24/17 20:03:10 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bhangra+Knights+vs.+Husan""
+
+02/24/17 20:03:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%91%C3%90%C2%B8-2""
+
+02/24/17 20:03:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jello+Biafra+%26+Mojo+Nixon+%26+the+Toadliquors""
+
+02/24/17 20:03:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jello+Biafra+With+NoMeansNo""
+
+02/24/17 20:03:31 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Big+Audio+Dynamite+II""
+
+02/24/17 20:03:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Big+Bass+vs.+Michelle+Narine""
+
+02/24/17 20:04:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bingo+Players+vs.+Chocolate+Puma""
+
+02/24/17 20:04:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Birdman+%26+Lil+Wayne""
+
+02/24/17 20:05:04 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jane+Birkin+%26+Serge+Gainsbourg""
+
+02/24/17 20:05:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bixio-Frizzi-Tempera""
+
+02/24/17 20:05:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%BE%C2%8E%C3%A5%C2%8B%C2%87%C3%A4%C2%BC%C2%9D""
+
+02/24/17 20:05:38 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bj%C3%B6rk+%26+David+Arnold""
+
+02/24/17 20:05:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bj%C3%B6rk+Gu%C3%B0mundsd%C3%B3ttir+%26+tr%C3%AD%C3%B3+Gu%C3%B0mundar+Ing%C3%B3lfssonar""
+
+02/24/17 20:07:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sonny+Black+%26+Saad""
+
+02/24/17 20:08:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Blaque+Ivory""
+
+02/24/17 20:09:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Blu+%26+Exile""
+
+02/24/17 20:10:31 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Blues+Image""
+
+02/24/17 20:10:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Blues+Magoos""
+
+02/24/17 20:11:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"DJ+BoBo+%26+Irene+Cara""
+
+02/24/17 20:12:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ray+Boltz""
+
+02/24/17 20:12:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"B.O.N.E.+Enterpri%24e""
+
+02/24/17 20:13:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bonnie+%27Prince%27+Billy+%26+Matt+Sweeney""
+
+02/24/17 20:14:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9D%C3%90%C2%B0%C3%90%C2%B9%C3%90%C2%BA+%C3%90%C2%91%C3%90%C2%BE%C3%91%C2%80%C3%90%C2%B7%C3%90%C2%BE%C3%90%C2%B2""
+
+02/24/17 20:14:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bow+Wow+%26+Omarion""
+
+02/24/17 20:14:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"David+Bowie+%26+Bing+Crosby""
+
+02/24/17 20:14:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"David+Bowie+%26+Mick+Jagger""
+
+02/24/17 20:15:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Billy+Bragg+%26+Wilco""
+
+02/24/17 20:16:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Brandy+%26+Monica""
+
+02/24/17 20:16:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Brandy+%26+Ray+J""
+
+02/24/17 20:16:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%91%C3%91%C2%80%C3%90%C2%B0%C3%90%C2%B2%C3%90%C2%BE""
+
+02/24/17 20:17:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Goran+Bregovi%C3%84%C2%87""
+
+02/24/17 20:18:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Leslie+Bricusse+%26+Anthony+Newley""
+
+02/24/17 20:18:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sarah+Brightman+%26+Andrea+Bocelli""
+
+02/24/17 20:20:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Chuck+Brown+and+Eva+Cassidy""
+
+02/24/17 20:21:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Peabo+Bryson+%26+Roberta+Flack""
+
+02/24/17 20:21:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Chico+Buarque+%26+Maria+Beth%C3%A2nia""
+
+02/24/17 20:21:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Buckethead+%26+Friends""
+
+02/24/17 20:21:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jeff+Buckley+%26+Gary+Lucas""
+
+02/24/17 20:22:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Buggles""
+
+02/24/17 20:22:57 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Eric+Burdon+%26+War""
+
+02/24/17 20:25:25 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Caesars+Palace""
+
+02/24/17 20:25:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"J.J.+Cale+%26+Eric+Clapton""
+
+02/24/17 20:26:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Camille+Jones+vs.+Fedde+Le+Grand""
+
+02/24/17 20:26:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Isobel+Campbell+%26+Mark+Lanegan""
+
+02/24/17 20:27:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Cansei+de+Ser+Sexy""
+
+02/24/17 20:28:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Keith+Caputo""
+
+02/24/17 20:29:04 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mariah+Carey+%26+Boyz+II+Men""
+
+02/24/17 20:29:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Carlinhos+Brown+%26+DJ+Dero""
+
+02/24/17 20:29:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mlle+Caro+%26+Frank+Garc%C3%ADa""
+
+02/24/17 20:29:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ana+Carolina+%26+Seu+Jorge""
+
+02/24/17 20:31:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Marty+Casey+%26+Lovehammers""
+
+02/24/17 20:31:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Johnny+Cash+%26+June+Carter+Cash""
+
+02/24/17 20:31:11 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Johnny+Cash+%26+Willie+Nelson""
+
+02/24/17 20:31:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Christian+Castro""
+
+02/24/17 20:32:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"S%C3%A9bastien+Cauet""
+
+02/24/17 20:32:56 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"John+Cena+%26+Tha+Trademarc""
+
+02/24/17 20:33:50 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Chamonix""
+
+02/24/17 20:33:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A9%C2%99%C2%B3%C3%A5%C2%A5%C2%95%C3%A8%C2%BF%C2%85""
+
+02/24/17 20:34:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%BC%C2%B5%C3%A9%C2%9F%C2%B6%C3%A6%C2%B6%C2%B5""
+
+02/24/17 20:34:07 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%BC%C2%B5%C3%A4%C2%BF%C2%A1%C3%A5%C2%93%C2%B2""
+
+02/24/17 20:34:47 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ray+Charles+%26+Betty+Carter""
+
+02/24/17 20:34:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Chas+%27n%27+Dave""
+
+02/24/17 20:35:10 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%A7%C3%90%C2%B0%C3%90%C2%B9%C3%91%C2%84""
+
+02/24/17 20:36:08 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Chicago+Transit+Authority""
+
+02/24/17 20:36:21 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Chico+Science+%26+Na%C3%A7%C3%A3o+Zumbi""
+
+02/24/17 20:37:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%A7%C3%90%C2%B8%C3%90%C2%B6+%26+Co""
+
+02/24/17 20:37:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%91%C2%A8%C3%A6%C2%9D%C2%B0%C3%A5%C2%80%C2%AB""
+
+02/24/17 20:40:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"MC+Clemens""
+
+02/24/17 20:42:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tom+Cochrane+%26+Red+Rider""
+
+02/24/17 20:43:10 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Nat+King+Cole+%26+George+Shearing+Quintet""
+
+02/24/17 20:43:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Willie+Col%C3%B3n+%26+Rub%C3%A9n+Blades""
+
+02/24/17 20:43:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Colourfield""
+
+02/24/17 20:44:08 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"John+Coltrane+and+Johnny+Hartman""
+
+02/24/17 20:46:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Chick+Corea+%26+Return+to+Forever""
+
+02/24/17 20:47:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Gal+Costa+%26+Caetano+Veloso""
+
+02/24/17 20:47:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Elvis+Costello+%26+Allen+Toussaint""
+
+02/24/17 20:47:45 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Elvis+Costello+with+Burt+Bacharach""
+
+02/24/17 20:48:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Coverdale%2BPage""
+
+02/24/17 20:50:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bing+Crosby+%26+the+Andrews+Sisters""
+
+02/24/17 20:50:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bing+Crosby+%26+Louis+Armstrong""
+
+02/24/17 20:50:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bing+Crosby+%26+Frank+Sinatra""
+
+02/24/17 20:51:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Crystal+Castles+vs.+Health""
+
+02/24/17 20:51:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"La+Cuca""
+
+02/24/17 20:53:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Cyber-Tec+Project""
+
+02/24/17 20:53:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"D.+Kay+%26+Epsilon""
+
+02/24/17 20:55:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lucio+Dalla+%26+Gianni+Morandi""
+
+02/24/17 20:56:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%8E%C2%A7%C3%8F%C2%81%C3%8E%C2%AE%C3%8F%C2%83%C3%8F%C2%84%C3%8E%C2%BF%C3%8F%C2%82+%C3%8E%C2%94%C3%8E%C2%AC%C3%8E%C2%BD%C3%8F%C2%84%C3%8E%C2%B7%C3%8F%C2%82""
+
+02/24/17 20:56:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dappled+Cities+Fly""
+
+02/24/17 20:57:34 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Darren+Tate+vs.+Jono+Grant""
+
+02/24/17 20:58:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sammy+Davis+Jr.+%26+Count+Basie""
+
+02/24/17 20:59:21 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%94%C3%90%C2%94%C3%90%C2%A2""
+
+02/24/17 20:59:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"G%C3%A9rald+de+Palmas""
+
+02/24/17 20:59:47 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Eva+De+Roovere+%26+Gerry+De+Mol""
+
+02/24/17 21:02:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"De-Grees+vs.+The+Real+Booty+Babes""
+
+02/24/17 21:02:22 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Delaney+%26+Bonnie+and+Friends""
+
+02/24/17 21:03:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Demigodz""
+
+02/24/17 21:03:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Demon+vs.+Heartbreaker""
+
+02/24/17 21:04:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"John+Denver+%26+The+Muppets""
+
+02/24/17 21:06:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tina+Dico""
+
+02/24/17 21:08:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dirty+South+vs.+Evermore""
+
+02/24/17 21:08:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Disiz+la+Peste""
+
+02/24/17 21:12:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Double+Trouble+%26+Rebel+MC""
+
+02/24/17 21:14:35 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Julie+Driscoll%2C+Brian+Auger+%26+The+Trinity""
+
+02/24/17 21:15:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dub+Incorporation""
+
+02/24/17 21:16:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dumonde+vs.+Lange""
+
+02/24/17 21:16:07 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%94%C3%91%C2%8E%C3%90%C2%BD%C3%90%C2%B0""
+
+02/24/17 21:16:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"D%C3%BC%C3%85%C2%9F+Soka%C3%84%C2%9F%C3%84%C2%B1+Sakinleri""
+
+02/24/17 21:17:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%AF%C3%90%C2%BD%C3%90%C2%BA%C3%90%C2%B0+%C3%90%C2%94%C3%91%C2%8F%C3%90%C2%B3%C3%90%C2%B8%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B2%C3%90%C2%B0""
+
+02/24/17 21:17:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bob+Dylan+%26+The+Band""
+
+02/24/17 21:17:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bob+Dylan+%26+Johnny+Cash""
+
+02/24/17 21:17:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bob+Dylan+%26+Grateful+Dead""
+
+02/24/17 21:17:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bob+Dylan+%26+Tom+Petty""
+
+02/24/17 21:17:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"D%C3%85%C2%BCem""
+
+02/24/17 21:18:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Edda+m%C3%85%C2%B1vek""
+
+02/24/17 21:18:47 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Eddie+Thoneick+%26+Kurd+Maverick""
+
+02/24/17 21:19:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Zac+Efron+%26+Vanessa+Anne+Hudgens""
+
+02/24/17 21:21:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Duke+Ellington+%26+John+Coltrane""
+
+02/24/17 21:21:45 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Duke+Ellington+%26+Ella+Fitzgerald""
+
+02/24/17 21:22:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Elvis+vs.+JXL""
+
+02/24/17 21:23:10 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sidsel+Endresen+%26+Bugge+Wesseltoft""
+
+02/24/17 21:23:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Brian+Eno+%26+David+Byrne""
+
+02/24/17 21:23:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Brian+Eno+%26+John+Cale""
+
+02/24/17 21:24:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%AD%C3%90%C2%BF%C3%90%C2%B8%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%BC%C3%90%C2%B8%C3%91%C2%8F""
+
+02/24/17 21:24:22 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Vaiko+Eplik+ja+Eliit""
+
+02/24/17 21:25:25 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Gloria+Estefan+and+Miami+Sound+Machine""
+
+02/24/17 21:26:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Evil%27s+Toy""
+
+02/24/17 21:27:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ezginin+G%C3%BCnl%C3%BC%C3%84%C2%9F%C3%BC""
+
+02/24/17 21:29:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Far+%2A+East+Movement""
+
+02/24/17 21:29:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Nicola+Fasano+vs.+Pat+Rich""
+
+02/24/17 21:30:35 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Fear+Before+the+March+of+Flames""
+
+02/24/17 21:31:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%85%C2%9Eebnem+Ferah""
+
+02/24/17 21:31:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Luisa+Fernandez+%26+Peter+Kent""
+
+02/24/17 21:33:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ella+Fitzgerald+%26+Louis+Armstrong""
+
+02/24/17 21:33:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ella+Fitzgerald+%26+The+Ink+Spots""
+
+02/24/17 21:34:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Five+Stairsteps""
+
+02/24/17 21:35:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Florence+and+The+Machine""
+
+02/24/17 21:36:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Flybanger""
+
+02/24/17 21:36:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dan+Fogelberg+%26+Tim+Weisberg""
+
+02/24/17 21:37:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Wayne+Fontana+%26+The+Mindbenders""
+
+02/24/17 21:38:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Connie+Francis+%26+Hank+Williams+Jr.""
+
+02/24/17 21:39:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Aretha+Franklin+%26+George+Michael""
+
+02/24/17 21:40:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Doug+E.+Fresh+%26+The+Get+Fresh+Crew""
+
+02/24/17 21:40:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Freudiana""
+
+02/24/17 21:41:56 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"John+Frusciante+and+Josh+Klinghoffer""
+
+02/24/17 21:44:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Declan+Galbraith""
+
+02/24/17 21:44:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jerry+Garcia+%26+David+Grisman""
+
+02/24/17 21:45:38 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Marvin+Gaye+%26+Tammi+Terrell""
+
+02/24/17 21:45:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Marvin+Gaye+%26+Kim+Weston""
+
+02/24/17 21:45:54 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ron+Geesin+%26+Roger+Waters""
+
+02/24/17 21:46:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Peter+Gelderblom+vs.+Dan+Parker""
+
+02/24/17 21:46:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Gentleman+and+the+Far+East+Band""
+
+02/24/17 21:46:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"George+Benson+%26+Earl+Klugh""
+
+02/24/17 21:46:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Germs""
+
+02/24/17 21:47:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lisa+Gerrard+%26+Pieter+Bourke""
+
+02/24/17 21:47:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Stan+Getz+%26+Astrud+Gilberto""
+
+02/24/17 21:47:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Stan+Getz+%26+Jo%C3%A3o+Gilberto""
+
+02/24/17 21:47:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ben+Gibbard""
+
+02/24/17 21:47:38 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Beth+Gibbons+%26+Rustin+Man""
+
+02/24/17 21:47:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Gift+of+Gab""
+
+02/24/17 21:47:56 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Gilbert+%26+Sullivan""
+
+02/24/17 21:48:22 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jimmy+Gilmer+and+The+Fireballs""
+
+02/24/17 21:48:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Norman+Gimbel+%26+Charles+Fox""
+
+02/24/17 21:50:54 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Golden+Boy+with+Miss+Kittin""
+
+02/24/17 21:51:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Goleo+VI+presents+Lumidee+vs.+Fatman+Scoop""
+
+02/24/17 21:51:34 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Goo+Goo+Dolls""
+
+02/24/17 21:52:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Eydie+Gorm%C3%A9+%26+Trio+Los+Panchos""
+
+02/24/17 21:52:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%93%C3%90%C2%BE%C3%91%C2%80%C3%90%C2%BE%C3%90%C2%B4+312""
+
+02/24/17 21:52:45 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%BE%C2%8C%C3%A8%C2%97%C2%A4%C3%A7%C2%9C%C2%9F%C3%A5%C2%B8%C2%8C""
+
+02/24/17 21:53:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Max+Graham+vs.+Yes""
+
+02/24/17 21:53:54 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"David+Grant+%26+Jaki+Graham""
+
+02/24/17 21:54:34 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%93%C3%91%C2%80%C3%90%C2%B0%C3%90%C2%B6%C3%90%C2%B4%C3%90%C2%B0%C3%90%C2%BD%C3%91%C2%81%C3%90%C2%BA%C3%90%C2%B0%C3%91%C2%8F+%C3%90%C2%BE%C3%90%C2%B1%C3%90%C2%BE%C3%91%C2%80%C3%90%C2%BE%C3%90%C2%BD%C3%90%C2%B0""
+
+02/24/17 21:57:07 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"David+Guetta+%26+Chris+Willis""
+
+02/24/17 21:57:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"David+Guetta+vs.+The+Egg""
+
+02/24/17 21:57:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"G%C3%BCnther+%26+The+Sunshine+Girls""
+
+02/24/17 21:58:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Arlo+Guthrie+%26+Pete+Seeger""
+
+02/24/17 21:58:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Buddy+Guy+%26+Junior+Wells""
+
+02/24/17 21:58:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Petra+Haden+and+Bill+Frisell""
+
+02/24/17 21:59:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Merle+Haggard+and+Willie+Nelson""
+
+02/24/17 21:59:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%85%C2%83%C3%A3%C2%81%C2%A1%C3%A3%C2%81%C2%A8%C3%A3%C2%81%C2%9B""
+
+02/24/17 22:00:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%B5%C2%9C%C3%A5%C2%B4%C2%8E%C3%A3%C2%81%C2%82%C3%A3%C2%82%C2%86%C3%A3%C2%81%C2%BF""
+
+02/24/17 22:01:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Glen+Hansard+%26+Mark%C3%A9ta+Irglov%C3%A1""
+
+02/24/17 22:01:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ben+Harper+and+The+Blind+Boys+of+Alabama""
+
+02/24/17 22:02:25 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Freddy+Hart""
+
+02/24/17 22:02:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"PJ+Harvey+%26+John+Parish""
+
+02/24/17 22:03:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%9E%C2%97%C3%A5%C2%8E%C2%9F%C3%A3%C2%82%C2%81%C3%A3%C2%81%C2%90%C3%A3%C2%81%C2%BF""
+
+02/24/17 22:03:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Justin+Hayward+%26+John+Lodge""
+
+02/24/17 22:04:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%28h%C3%89%C2%99d%29+p.e.""
+
+02/24/17 22:05:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B9%C2%B3%C3%A5%C2%AE%C2%B6%C3%A3%C2%81%C2%BF%C3%A3%C2%81%C2%A1%C3%A3%C2%82%C2%88""
+
+02/24/17 22:06:04 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jimi+Hendrix+%26+B.B.+King""
+
+02/24/17 22:08:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Hillsong+%2B+Delirious%3F""
+
+02/24/17 22:09:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"HINOI%C3%A3%C2%83%C2%81%C3%A3%C2%83%C2%BC%C3%A3%C2%83%C2%A0""
+
+02/24/17 22:10:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Holden+%26+Thompson""
+
+02/24/17 22:10:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Billie+Holiday+%26+Lester+Young""
+
+02/24/17 22:10:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"HOME+MADE+%C3%A5%C2%AE%C2%B6%C3%A6%C2%97%C2%8F""
+
+02/24/17 22:11:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Hork%C3%BD%C3%85%C2%BEe+sl%C3%AD%C3%85%C2%BEe""
+
+02/24/17 22:12:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B8%C2%83%C3%A8%C2%A2%C2%8B%C3%A5%C2%AF%C2%85%C3%A6%C2%B3%C2%B0""
+
+02/24/17 23:55:35 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B8%C2%83%C3%A8%C2%A2%C2%8B%C3%A5%C2%AF%C2%85%C3%A6%C2%B3%C2%B0""
+
+02/24/17 23:57:56 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"HYDE"^20+OR+comment:(name+used+by+hyde+of+L%27Arc%7Een%7ECiel+in+solo+career)"
+
+02/24/17 23:58:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"I+Can+Make+a+Mess+Like+Nobody%27s+Business""
+
+02/24/17 23:59:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ida+Corr+vs.+Fedde+Le+Grand""
+
+02/24/17 23:59:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A9%C2%A3%C2%AF%C3%A5%C2%B3%C2%B6%C3%A7%C2%9C%C2%9F%C3%A7%C2%90%C2%86""
+
+02/24/17 23:59:54 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%81%C2%84%C3%A3%C2%81%C2%8D%C3%A3%C2%82%C2%82%C3%A3%C2%81%C2%AE%C3%A3%C2%81%C2%8C%C3%A3%C2%81%C2%8B%C3%A3%C2%82%C2%8A""
+
+02/25/17 00:00:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"iLiKETRAiNS""
+
+02/25/17 00:03:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A4%C2%BA%C2%95%C3%A4%C2%B8%C2%8A%C3%A3%C2%81%C2%82%C3%A3%C2%81%C2%9A%C3%A3%C2%81%C2%BF""
+
+02/25/17 00:05:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Iron+%26+Wine+and+Calexico""
+
+02/25/17 00:08:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Jacksons""
+
+02/25/17 00:08:56 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jim+Jacobs+%26+Warren+Casey""
+
+02/25/17 00:12:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jay-Z+%26+R.+Kelly""
+
+02/25/17 00:12:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jay-Z+and+Linkin+Park""
+
+02/25/17 00:16:21 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Elton+John+%26+Billy+Joel""
+
+02/25/17 00:16:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Elton+John+%26+Tim+Rice""
+
+02/25/17 00:18:11 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jokke+%26+Valentinerne+med+Tourettes""
+
+02/25/17 00:18:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"George+Jones+%26+Tammy+Wynette""
+
+02/25/17 00:19:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tom+Jones+%26+The+Cardigans""
+
+02/25/17 00:19:34 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tom+Jones+%26+Cerys+Matthews""
+
+02/25/17 00:19:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tom+Jones+%26+Mousse+T.""
+
+02/25/17 00:19:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Freek+de+Jonge+%26+Stips""
+
+02/25/17 00:20:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Louis+Jordan+%26+Ella+Fitzgerald""
+
+02/25/17 00:21:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jukka+Poika+ja+Kompostikopla""
+
+02/25/17 00:22:54 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Juno+Reactor+vs.+Don+Davis""
+
+02/25/17 00:23:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Damien+Jurado+%26+Gathered+in+Song""
+
+02/25/17 00:23:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Justice+vs.+Simian""
+
+02/25/17 00:23:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Daniel+K.""
+
+02/25/17 00:24:34 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%9A%C2%86%C3%A8%C2%B0%C2%B7%C3%A5%C2%B0%C2%9A%C3%A7%C2%BE%C2%8E""
+
+02/25/17 00:24:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%A2%C2%B6%C3%A6%C2%B5%C2%A6%C3%A7%C2%94%C2%B1%C3%A8%C2%A8%C2%98""
+
+02/25/17 00:25:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Kalin+Twins""
+
+02/25/17 00:25:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9A%C3%90%C2%B0%C3%90%C2%BB%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%BE%C3%90%C2%B2+%C3%90%C2%9C%C3%90%C2%BE%C3%91%C2%81%C3%91%C2%82""
+
+02/25/17 00:25:21 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Israel+Kamakawiwo%C3%8A%C2%BBole""
+
+02/25/17 00:26:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Kash+vs.+INXS""
+
+02/25/17 00:27:04 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%89%C2%87%C3%A7%C2%80%C2%AC%C3%A9%C2%82%C2%A3%C3%A5%C2%A5%C2%88""
+
+02/25/17 00:27:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B7%C2%9D%C3%A7%C2%94%C2%B0%C3%A3%C2%81%C2%BE%C3%A3%C2%81%C2%BF""
+
+02/25/17 00:27:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B7%C2%9D%C3%A6%C2%9C%C2%AC%C3%A7%C2%9C%C2%9F%C3%A7%C2%90%C2%B4""
+
+02/25/17 00:27:50 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Kazik+Na+%C3%85%C2%BBywo""
+
+02/25/17 00:28:20 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Robert+Earl+Keen%2C+Jr.""
+
+02/25/17 00:28:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Keistuoli%C3%85%C2%B3+teatras""
+
+02/25/17 00:29:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Paul+Kelly+and+The+Coloured+Girls""
+
+02/25/17 00:29:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Nigel+Kennedy+%26+The+Kroke+Band""
+
+02/25/17 00:30:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ke%24ha""
+
+02/25/17 00:30:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Gaudi+and+Nusrat+Fateh+Ali+Khan""
+
+02/25/17 00:31:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Kid+Cudi+vs.+Crookers""
+
+02/25/17 00:31:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Nicole+Kidman+%26+Ewan+McGregor""
+
+02/25/17 00:32:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%9C%C2%A8%C3%A6%C2%9D%C2%91%C3%A3%C2%82%C2%AB%C3%A3%C2%82%C2%A8%C3%A3%C2%83%C2%A9""
+
+02/25/17 00:33:38 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Albert+King+with+Stevie+Ray+Vaughan""
+
+02/25/17 00:33:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"B.B.+King+%26+Eric+Clapton""
+
+02/25/17 00:34:57 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9A%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%BE""
+
+02/25/17 00:35:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9A%C3%90%C2%B8%C3%90%C2%BF%C3%90%C2%B5%C3%90%C2%BB%C3%90%C2%BE%C3%90%C2%B2""
+
+02/25/17 00:35:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9A%C3%90%C2%B8%C3%91%C2%80%C3%90%C2%BF%C3%90%C2%B8%C3%91%C2%87%C3%90%C2%B8""
+
+02/25/17 00:35:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%B0%C2%A3%C3%A5%C2%BF%C2%97%C3%A5%C2%9C%C2%98""
+
+02/25/17 00:35:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%8C%C2%97%C3%A5%C2%87%C2%BA%C3%A8%C2%8F%C2%9C%C3%A5%C2%A5%C2%88""
+
+02/25/17 00:35:31 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%96%C2%9C%C3%A5%C2%A4%C2%9A%C3%A9%C2%83%C2%8E""
+
+02/25/17 00:37:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mark+Knopfler+%26+Eric+Clapton""
+
+02/25/17 00:37:35 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mark+Knopfler+%26+Emmylou+Harris""
+
+02/25/17 00:37:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%80%C2%96%C3%A7%C2%94%C2%B0%C3%A4%C2%BE%C2%86%C3%A6%C2%9C%C2%AA""
+
+02/25/17 00:38:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Kool+Savas+%26+Azad""
+
+02/25/17 00:38:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9A%C3%90%C2%BE%C3%91%C2%80%C3%90%C2%BE%C3%90%C2%BB%C3%91%C2%8C+%C3%90%C2%B8+%C3%90%C2%A8%C3%91%C2%83%C3%91%C2%82""
+
+02/25/17 00:38:54 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B0%C2%8F%C3%A5%C2%9D%C2%82%C3%A3%C2%82%C2%8A%C3%A3%C2%82%C2%86""
+
+02/25/17 00:38:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%82%C2%B3%C3%A3%C2%82%C2%BF%C3%A3%C2%83%C2%8B%C3%A3%C2%82%C2%AD%C3%A3%C2%83%C2%B3%C3%A3%C2%83%C2%A4""
+
+02/25/17 00:40:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Alison+Krauss+%26+The+Cox+Family""
+
+02/25/17 00:40:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9A%C3%91%C2%80%C3%90%C2%B5%C3%90%C2%BC%C3%90%C2%B0%C3%91%C2%82%C3%90%C2%BE%C3%91%C2%80%C3%90%C2%B8%C3%90%C2%B9""
+
+02/25/17 00:40:53 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Kronos+Quartet+%26+Asha+Bhosle""
+
+02/25/17 00:41:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%80%C2%89%C3%A6%C2%9C%C2%A8%C3%A9%C2%BA%C2%BB%C3%A8%C2%A1%C2%A3""
+
+02/25/17 00:42:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Talib+Kweli+%26+Madlib""
+
+02/25/17 00:47:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lata+Mangeshkar+%26+Mohammed+Rafi""
+
+02/25/17 00:49:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+League+Unlimited+Orchestra""
+
+02/25/17 00:50:25 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lee+Aaron"^20+OR+comment:(The+group%3A+The+Lee+Aaron+Project+-+add+releases+here)"
+
+02/25/17 00:50:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Byron+Lee+%26+Mighty+Sparrow""
+
+02/25/17 00:50:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%9D%C2%8E%C3%A7%C2%8E%C2%9F""
+
+02/25/17 00:52:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9B%C3%90%C2%B5%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%B3%C3%91%C2%80%C3%90%C2%B0%C3%90%C2%B4""
+
+02/25/17 00:52:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"John+Lennon+%26+Yoko+Ono""
+
+02/25/17 00:52:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"John+Lennon+%26+The+Plastic+Ono+Band""
+
+02/25/17 00:53:25 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Les+dix+commandements""
+
+02/25/17 00:54:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jeffrey+%26+Jack+Lewis""
+
+02/25/17 00:54:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jenny+Lewis+with+The+Watson+Twins""
+
+02/25/17 00:55:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"LFO+Demon+aka+Mental+Hell""
+
+02/25/17 00:56:11 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Luciano+Ligabue""
+
+02/25/17 00:56:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lil+Boosie""
+
+02/25/17 00:57:01 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lil+Romeo""
+
+02/25/17 00:57:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9B%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%B4%C3%90%C2%B0""
+
+02/25/17 01:00:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Michael+Lloyd+%26+Le+Disc""
+
+02/25/17 01:00:47 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"LMC+vs.+U2""
+
+02/25/17 01:01:04 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Edu+Lobo+%26+Chico+Buarque""
+
+02/25/17 01:01:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Locomia""
+
+02/25/17 01:03:47 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Robert+Lopez+%26+Jeff+Marx""
+
+02/25/17 01:09:34 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"L%C3%91%C2%8Ek""
+
+02/25/17 01:11:57 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Frankie+Lymon+%26+The+Teenagers""
+
+02/25/17 01:12:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Loretta+Lynn+%26+Conway+Twitty""
+
+02/25/17 01:12:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lyte+Funky+Ones""
+
+02/25/17 01:16:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bar%C3%84%C2%B1%C3%85%C2%9F+Man%C3%A7o""
+
+02/25/17 01:17:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lata+Mangeshkar+%26+Kishore+Kumar""
+
+02/25/17 01:20:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bob+Marley+vs.+Funkstar+De+Luxe""
+
+02/25/17 01:21:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Martha+and+The+Vandellas""
+
+02/25/17 01:22:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"J+Mascis+and+the+Fog""
+
+02/25/17 01:22:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9C%C3%90%C2%B0%C3%91%C2%88%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%B0+%C3%90%C2%B2%C3%91%C2%80%C3%90%C2%B5%C3%90%C2%BC%C3%90%C2%B5%C3%90%C2%BD%C3%90%C2%B8""
+
+02/25/17 01:22:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mason+vs.+Princess+Superstar""
+
+02/25/17 01:23:01 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Souad+Massi""
+
+02/25/17 01:23:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9C%C3%90%C2%B0%C3%91%C2%81%C3%91%C2%82%C3%90%C2%B5%C3%91%C2%80""
+
+02/25/17 01:23:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Chiara+Mastroianni+%26+Benjamin+Biolay""
+
+02/25/17 01:23:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Johnny+Mathis+%26+Deniece+Williams""
+
+02/25/17 01:23:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Keiko+Matsui""
+
+02/25/17 01:24:01 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%9D%C2%BE%C3%A6%C2%B5%C2%A6%C3%A4%C2%BA%C2%9C%C3%A5%C2%BC%C2%A5""
+
+02/25/17 01:24:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dave+Matthews+%26+Tim+Reynolds""
+
+02/25/17 01:25:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%83%C2%9E%C3%A3%C2%82%C2%AD%C3%A3%C2%82%C2%B7%C3%A3%C2%83%C2%9E%C3%A3%C2%83%C2%A0+%C3%A3%C2%82%C2%B6+%C3%A3%C2%83%C2%9B%C3%A3%C2%83%C2%AB%C3%A3%C2%83%C2%A2%C3%A3%C2%83%C2%B3""
+
+02/25/17 01:25:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A4%C2%BA%C2%94%C3%A6%C2%9C%C2%88%C3%A5%C2%A4%C2%A9""
+
+02/25/17 01:25:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Les+McCann+%26+Eddie+Harris""
+
+02/25/17 01:26:07 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Paul+%26+Linda+McCartney""
+
+02/25/17 01:26:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Paul+McCartney+%26+Wings""
+
+02/25/17 01:29:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bill+Medley+%26+Jennifer+Warnes""
+
+02/25/17 01:29:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%9B%C2%AE%C3%A9%C2%BB%C2%92%C3%A5%C2%B0%C2%86%C3%A5%C2%8F%C2%B8""
+
+02/25/17 01:29:53 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Melanie+B""
+
+02/25/17 01:30:22 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9C%C3%90%C2%B5%C3%90%C2%BB%C3%91%C2%8C%C3%90%C2%BD%C3%90%C2%B8%C3%91%C2%86%C3%90%C2%B0""
+
+02/25/17 01:31:31 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Freddie+Mercury+%26+Montserrat+Caball%C3%A9""
+
+02/25/17 01:32:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mezarkabul""
+
+02/25/17 01:32:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"m-flo%C3%A2%C2%99%C2%A5Crystal+Kay""
+
+02/25/17 01:32:57 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%84%C2%A1%C3%A5%C2%8D%C2%B0%C3%A8%C2%89%C2%AF%C3%A5%C2%93%C2%81""
+
+02/25/17 01:33:07 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"George+Michael+%26+Elton+John""
+
+02/25/17 01:34:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Milk+%26+Sugar+vs.+John+Paul+Young""
+
+02/25/17 01:34:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Glenn+Miller+Orchestra""
+
+02/25/17 01:35:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mina+%26+Adriano+Celentano""
+
+02/25/17 01:35:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%83%C2%9F%C3%A3%C2%83%C2%8B%C3%A3%C2%83%C2%A2%C3%A3%C2%83%C2%8B%C3%A3%C2%80%C2%82""
+
+02/25/17 01:36:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dannii+Minogue+vs.+Flower+Power""
+
+02/25/17 01:37:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Joni+Mitchell+%26+James+Taylor""
+
+02/25/17 01:37:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mittermeier+vs.+Guano+Babes""
+
+02/25/17 01:37:47 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%B0%C2%B4%C3%A6%C2%A8%C2%B9%C3%A5%C2%A5%C2%88%C3%A3%C2%80%C2%85""
+
+02/25/17 01:38:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Micky+Modelle+vs.+Jessy""
+
+02/25/17 01:38:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"M%C3%85%C2%93nia""
+
+02/25/17 01:39:50 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9C%C3%90%C2%BE%C3%90%C2%BD%C3%90%C2%B3%C3%90%C2%BE%C3%90%C2%BB+%C3%90%C2%A8%C3%91%C2%83%C3%91%C2%83%C3%90%C2%B4%C3%90%C2%B0%C3%90%C2%BD""
+
+02/25/17 01:41:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Vinicius+de+Moraes+%26+Toquinho""
+
+02/25/17 01:42:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%83%C2%A2%C3%A3%C2%83%C2%BC%C3%A3%C2%83%C2%8B%C3%A3%C2%83%C2%B3%C3%A3%C2%82%C2%B0%C3%A5%C2%A8%C2%98%C3%A3%C2%80%C2%82""
+
+02/25/17 01:42:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%83%C2%A2%C3%A3%C2%83%C2%BC%C3%A3%C2%83%C2%8B%C3%A3%C2%83%C2%B3%C3%A3%C2%82%C2%B0%C3%A5%C2%A8%C2%98%C3%A3%C2%80%C2%82%C3%A8%C2%AA%C2%95%C3%A7%C2%94%C2%9F10%C3%A5%C2%B9%C2%B4%C3%A8%C2%A8%C2%98%C3%A5%C2%BF%C2%B5%C3%A9%C2%9A%C2%8A""
+
+02/25/17 01:43:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Van+Morrison+%26+The+Chieftains""
+
+02/25/17 01:43:10 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Van+Morrison+%26+Bob+Dylan""
+
+02/25/17 01:43:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Van+Morrison+%26+Linda+Gail+Lewis""
+
+02/25/17 01:44:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mousse+T.+vs.+The+Dandy+Warhols""
+
+02/25/17 01:44:38 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mousse+T.+vs.+Hot+%27n%27+Juicy""
+
+02/25/17 01:45:11 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mr.+On+vs.+Jungle+Brothers""
+
+02/25/17 01:48:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Mylo+vs.+Miami+Sound+Machine""
+
+02/25/17 01:49:01 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%BE%C2%8E%C3%A5%C2%8B%C2%87%C3%A5%C2%A3%C2%AB""
+
+02/25/17 01:49:21 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A9%C2%95%C2%B7%C3%A6%C2%B2%C2%BC%C3%A8%C2%8B%C2%B1%C3%A6%C2%A8%C2%B9""
+
+02/25/17 01:49:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A4%C2%B8%C2%AD%C3%A5%C2%B7%C2%9D%C3%A7%C2%BF%C2%94%C3%A5%C2%AD%C2%90""
+
+02/25/17 01:49:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A4%C2%B8%C2%AD%C3%A5%C2%B3%C2%B6%C3%A3%C2%81%C2%BF%C3%A3%C2%82%C2%86%C3%A3%C2%81%C2%8D""
+
+02/25/17 01:49:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A4%C2%B8%C2%AD%C3%A5%C2%B3%C2%B6%C3%A7%C2%BE%C2%8E%C3%A5%C2%98%C2%89""
+
+02/25/17 01:50:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Nas+%26+Damian+Marley""
+
+02/25/17 01:51:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Youssou+N%27Dour+%26+Neneh+Cherry""
+
+02/25/17 01:52:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%86%C2%B1%C3%A6%C2%B0%C2%97%C3%A3%C2%83%C2%90%C3%A3%C2%82%C2%B5%C3%A3%C2%83%C2%A9""
+
+02/25/17 01:52:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Willie+Nelson+%26+Wynton+Marsalis""
+
+02/25/17 01:53:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Neurosis+%26+Jarboe""
+
+02/25/17 01:54:47 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"A.C.+Newman""
+
+02/25/17 01:55:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Nickerbocker+%26+Biene""
+
+02/25/17 01:56:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Czes%C3%85%C2%82aw+Niemen""
+
+02/25/17 01:56:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%83%C2%8A%C3%A3%C2%82%C2%A4%C3%A3%C2%83%C2%88%C3%A3%C2%83%C2%A1%C3%A3%C2%82%C2%A2""
+
+02/25/17 01:58:25 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9D%C3%90%C2%BE%C3%91%C2%87%C3%90%C2%BD%C3%91%C2%8B%C3%90%C2%B5+%C3%90%C2%A1%C3%90%C2%BD%C3%90%C2%B0%C3%90%C2%B9%C3%90%C2%BF%C3%90%C2%B5%C3%91%C2%80%C3%91%C2%8B""
+
+02/25/17 02:01:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Nusrat+Fateh+Ali+Khan+%26+Party""
+
+02/25/17 02:01:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Philip+Oakey+%26+Giorgio+Moroder""
+
+02/25/17 02:02:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Paddy+O%27Connor+%26+Friends""
+
+02/25/17 02:02:35 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Martin+O%27Donnell+%26+Michael+Salvatori""
+
+02/25/17 02:02:47 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%82%C2%AA%C3%A3%C2%83%C2%95%C3%A3%C2%82%C2%B3%C3%A3%C2%83%C2%BC%C3%A3%C2%82%C2%B9""
+
+02/25/17 02:03:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Les+Ogres+de+Barback+%26+Les+Hurlements+d%27L%C3%A9o""
+
+02/25/17 02:03:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9E%C3%90%C2%BA%C3%90%C2%B5%C3%90%C2%B0%C3%90%C2%BD+%C3%90%C2%95%C3%90%C2%BB%C3%91%C2%8C%C3%90%C2%B7%C3%90%C2%B8""
+
+02/25/17 02:04:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"OLIVIA+inspi%27+REIRA+%28TRAPNEST%29""
+
+02/25/17 02:05:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A9%C2%AC%C2%BC%C3%A6%C2%9D%C2%9F%C3%A3%C2%81%C2%A1%C3%A3%C2%81%C2%B2%C3%A3%C2%82%C2%8D""
+
+02/25/17 02:05:34 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A9%C2%99%C2%B0%C3%A9%C2%99%C2%BD%C3%A5%C2%BA%C2%A7""
+
+02/25/17 02:05:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B0%C2%8F%C3%A9%C2%87%C2%8E%C3%A3%C2%83%C2%AA%C3%A3%C2%82%C2%B5""
+
+02/25/17 02:05:50 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%A4%C2%A7%C3%A8%C2%B0%C2%B7%C3%A5%C2%B9%C2%B8""
+
+02/25/17 02:08:22 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%A4%C2%A7%C3%A5%C2%A1%C2%9A%C3%A6%C2%84%C2%9B""
+
+02/25/17 02:09:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B0%C2%BE%C3%A5%C2%B4%C2%8E%C3%A8%C2%B1%C2%8A""
+
+02/25/17 02:09:45 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"P.+Diddy+%26+The+Bad+Boy+Family""
+
+02/25/17 02:10:31 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jimmy+Page+%26+The+Black+Crowes""
+
+02/25/17 02:11:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Palace+Brothers""
+
+02/25/17 02:11:08 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Palace+Songs""
+
+02/25/17 02:12:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%8E%C2%88%C3%8E%C2%BB%C3%8E%C2%B5%C3%8E%C2%BD%C3%8E%C2%B1+%C3%8E%C2%A0%C3%8E%C2%B1%C3%8F%C2%80%C3%8E%C2%B1%C3%8F%C2%81%C3%8E%C2%AF%C3%8E%C2%B6%C3%8E%C2%BF%C3%8F%C2%85""
+
+02/25/17 02:12:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"John+Parish+%26+Polly+Jean+Harvey""
+
+02/25/17 02:13:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ray+Parker+Jr.+and+Raydio""
+
+02/25/17 02:13:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dolly+Parton%2C+Linda+Ronstadt+%26+Emmylou+Harris""
+
+02/25/17 02:13:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Party+Pimpz""
+
+02/25/17 02:14:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Paul+Wall+%26+Chamillionaire""
+
+02/25/17 02:15:54 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Pekin%C3%85%C2%A1ka+Patka""
+
+02/25/17 02:15:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9F%C3%90%C2%B5%C3%90%C2%BB%C3%90%C2%B0%C3%90%C2%B3%C3%90%C2%B5%C3%91%C2%8F""
+
+02/25/17 02:17:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%8E%C2%9F%C3%8F%C2%81%C3%8F%C2%86%C3%8E%C2%AD%C3%8E%C2%B1%C3%8F%C2%82+%C3%8E%C2%A0%C3%8E%C2%B5%C3%8F%C2%81%C3%8E%C2%AF%C3%8E%C2%B4%C3%8E%C2%B7%C3%8F%C2%82""
+
+02/25/17 02:17:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Perry+Farrell%27s+Satellite+Party""
+
+02/25/17 02:18:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Peter%2C+Sue+und+Marc""
+
+02/25/17 02:18:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"John+Petrucci+%26+Jordan+Rudess""
+
+02/25/17 02:19:04 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Pezet-Noon""
+
+02/25/17 02:20:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Pid%C3%85%C2%BCama+Porno""
+
+02/25/17 02:20:38 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Pienved%C3%84%C2%93ja+piedz%C3%84%C2%ABvojumi""
+
+02/25/17 02:21:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%9F%C3%90%C2%B8%C3%90%C2%BA%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%BA""
+
+02/25/17 02:23:01 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Robert+Plant+%26+Alison+Krauss""
+
+02/25/17 02:23:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Robert+Plant+and+the+Strange+Sensation""
+
+02/25/17 02:24:11 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Pogues+%26+The+Dubliners""
+
+02/25/17 02:25:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Brian+Poole+%26+The+Tremeloes""
+
+02/25/17 02:25:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%83%C2%9D%C3%A3%C2%83%C2%AB%C3%A3%C2%83%C2%8E%C3%A3%C2%82%C2%B0%C3%A3%C2%83%C2%A9%C3%A3%C2%83%C2%95%C3%A3%C2%82%C2%A3%C3%A3%C2%83%C2%86%C3%A3%C2%82%C2%A3""
+
+02/25/17 02:26:22 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Franka+Potente+%26+Thomas+D""
+
+02/25/17 02:27:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Elvis+Presley+and+Jerry+Lee+Lewis""
+
+02/25/17 02:28:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Louis+Prima+%26+Keely+Smith""
+
+02/25/17 02:28:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Prince+%26+The+New+Power+Generation""
+
+02/25/17 02:28:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Prince+%26+The+Revolution""
+
+02/25/17 02:30:07 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Eric+Prydz+vs.+Floyd""
+
+02/25/17 02:31:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Puretone""
+
+02/25/17 02:32:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Quantic+%26+Nickodemus""
+
+02/25/17 02:32:28 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Queen+%26+David+Bowie""
+
+02/25/17 02:32:47 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Quetschenpaua""
+
+02/25/17 02:33:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"R.+Kelly+and+Public+Announcement""
+
+02/25/17 02:33:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Max+Raabe+%26+Palast+Orchester""
+
+02/25/17 02:34:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Rainbow+Butt+Monkeys""
+
+02/25/17 02:36:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Raspberries""
+
+02/25/17 02:36:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Los+Ratones+Paranoicos""
+
+02/25/17 02:37:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Richie+Ray+%26+Bobby+Cruz""
+
+02/25/17 02:38:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Otis+Redding+%26+Carla+Thomas""
+
+02/25/17 02:39:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lou+Reed+%2B+John+Cale""
+
+02/25/17 02:39:20 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lou+Reed%2C+John+Cale+%26+Nico""
+
+02/25/17 02:40:08 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Keali%C3%8A%C2%BBi+Reichel""
+
+02/25/17 02:40:10 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A4%C2%BB%C2%B2%C3%A4%C2%BA%C2%95%C3%A6%C2%88%C2%B8%C3%A9%C2%BA%C2%97%C3%A5%C2%B8%C2%82""
+
+02/25/17 02:41:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Revelation+Theory""
+
+02/25/17 02:42:57 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Riblja+%C3%84%C2%8Dorba""
+
+02/25/17 02:43:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Damien+Rice+%26+Lisa+Hannigan""
+
+02/25/17 02:43:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Richard+X+vs.+Liberty+X""
+
+02/25/17 02:45:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Robbie+Robertson+%26+The+Red+Road+Ensemble""
+
+02/25/17 02:45:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Smokey+Robinson+%26+The+Miracles""
+
+02/25/17 02:45:57 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Robyn+with+Kleerup""
+
+02/25/17 02:47:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Silvio+Rodr%C3%ADguez+%26+Luis+Eduardo+Aute""
+
+02/25/17 02:47:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sixto+Rodriguez""
+
+02/25/17 02:47:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Kenny+Rogers+%26+Dolly+Parton""
+
+02/25/17 02:48:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Max+Romeo+and+The+Upsetters""
+
+02/25/17 02:48:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Roni+Size+%26+Cypress+Hill""
+
+02/25/17 02:48:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Linda+Ronstadt+%26+The+Nelson+Riddle+Orchestra""
+
+02/25/17 02:49:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Diana+Ross+%26+Marvin+Gaye""
+
+02/25/17 02:49:26 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Diana+Ross+%26+The+Supremes+and+The+Temptations""
+
+02/25/17 02:49:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Die+Roten+Rosen""
+
+02/25/17 02:50:06 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Josh+Rouse+%26+Kurt+Wagner""
+
+02/25/17 02:50:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Royce+da+5%279%22""
+
+02/25/17 02:51:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Rufus+%26+Chaka+Khan""
+
+02/25/17 02:52:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Run-D.M.C.+vs.+Jason+Nevins""
+
+02/25/17 02:53:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%A2%C2%81%C3%A9%C2%82%C2%A6%C3%A5%C2%BD%C2%A6""
+
+02/25/17 02:54:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sabina+y+P%C3%A1ez""
+
+02/25/17 02:54:08 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Joaqu%C3%ADn+Sabina+y+Viceversa""
+
+02/25/17 02:55:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%9D%C2%82%C3%A6%C2%9C%C2%AC%C3%A7%C2%9C%C2%9F%C3%A7%C2%B6%C2%BE""
+
+02/25/17 02:55:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ryuichi+Sakamoto+%26+David+Sylvian""
+
+02/25/17 02:55:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%97%C2%91%C3%97%C2%A8%C3%97%C2%99+%C3%97%C2%A1%C3%97%C2%97%C3%97%C2%A8%C3%97%C2%95%C3%97%C2%A3""
+
+02/25/17 02:55:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sami+Dee+%26+Freddy+Jones+vs.+Crystal+Waters""
+
+02/25/17 02:56:08 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"DJ+Sammy+%26+Yanou""
+
+02/25/17 02:57:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Carlos+Santana+%26+John+McLaughlin""
+
+02/25/17 02:57:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Carlos+Santana+%26+Buddy+Miles""
+
+02/25/17 02:58:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Say+Hi+to+Your+Mom""
+
+02/25/17 03:00:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Scooter+vs.+Marc+Acardipane+%26+Dick+Rules""
+
+02/25/17 03:00:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Gil+Scott-Heron+%26+Brian+Jackson""
+
+02/25/17 03:00:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Scraping+Foetus+Off+the+Wheel""
+
+02/25/17 03:03:50 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Septic+Flesh""
+
+02/25/17 03:03:56 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%92%C3%90%C2%B5%C3%91%C2%80%C3%90%C2%BA%C3%90%C2%B0+%C3%90%C2%A1%C3%90%C2%B5%C3%91%C2%80%C3%90%C2%B4%C3%91%C2%8E%C3%91%C2%87%C3%90%C2%BA%C3%90%C2%B0""
+
+02/25/17 03:06:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Shapeshifters+%26+Chic""
+
+02/25/17 03:07:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tony+Sheridan+%26+The+Beatles""
+
+02/25/17 03:07:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Richard+M.+Sherman+%26+Robert+B.+Sherman""
+
+02/25/17 03:08:08 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%A4%C2%8E%C3%A5%C2%90%C2%8D%C3%A6%C2%9E%C2%97%C3%A6%C2%AA%C2%8E""
+
+02/25/17 03:08:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B3%C2%B6%C3%A3%C2%81%C2%BF%C3%A3%C2%82%C2%84%C3%A3%C2%81%C2%88%C3%A3%C2%81%C2%84%C3%A5%C2%AD%C2%90""
+
+02/25/17 03:08:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%B3%C2%B6%C3%A8%C2%B0%C2%B7%C3%A3%C2%81%C2%B2%C3%A3%C2%81%C2%A8%C3%A3%C2%81%C2%BF""
+
+02/25/17 03:08:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A4%C2%B8%C2%8B%C3%A5%C2%B7%C2%9D%C3%A3%C2%81%C2%BF%C3%A3%C2%81%C2%8F%C3%A3%C2%81%C2%AB""
+
+02/25/17 03:08:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A9%C2%9C%C2%9C%C3%A6%C2%9C%C2%88%C3%A3%C2%81%C2%AF%C3%A3%C2%82%C2%8B%C3%A3%C2%81%C2%8B""
+
+02/25/17 03:11:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jumpin%27+Gene+Simmons""
+
+02/25/17 03:12:09 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Frank+Sinatra+%26+Count+Basie""
+
+02/25/17 03:12:11 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Frank+Sinatra+%26+the+Tommy+Dorsey+Orchestra""
+
+02/25/17 03:12:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Frank+Sinatra+%26+Ant%C3%B4nio+Carlos+Jobim""
+
+02/25/17 03:12:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Nancy+Sinatra+%26+Lee+Hazlewood""
+
+02/25/17 03:12:21 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bob+Sinclar+%26+Cutee+B""
+
+02/25/17 03:12:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bob+Sinclar+%26+Steve+Edwards""
+
+02/25/17 03:12:25 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bob+Sinclar+presents+Fireball""
+
+02/25/17 03:13:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Sir+Douglas+Quintet""
+
+02/25/17 03:18:08 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Smurfs""
+
+02/25/17 03:18:11 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%A1%C3%90%C2%BC%C3%91%C2%8B%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%BE%C3%90%C2%B2%C3%91%C2%8B%C3%90%C2%B5+%C3%90%C2%B3%C3%90%C2%B0%C3%90%C2%BB%C3%90%C2%BB%C3%91%C2%8E%C3%91%C2%86%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%B0%C3%91%C2%86%C3%90%C2%B8%C3%90%C2%B8""
+
+02/25/17 03:19:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"S%C3%85%C2%93ur+Sourire""
+
+02/25/17 03:20:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Le+Roi+Soleil""
+
+02/25/17 03:20:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Hans+S%C3%B6llner+%26+Bayaman%27Sissdem""
+
+02/25/17 03:21:05 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sonic+Mayhem""
+
+02/25/17 03:26:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%A1%C3%90%C2%BF%C3%90%C2%BB%C3%90%C2%B8%C3%90%C2%BD""
+
+02/25/17 03:26:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bruce+Springsteen+%26+The+E+Street+Band""
+
+02/25/17 03:28:03 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Stare+dobre+ma%C3%85%C2%82%C3%85%C2%BCe%C3%85%C2%84stwo""
+
+02/25/17 03:28:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Joey+Starr""
+
+02/25/17 03:31:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dave+Stewart+%26+Barbara+Gaskin""
+
+02/25/17 03:31:58 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Rod+Stewart+%26+The+Faces""
+
+02/25/17 03:32:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sting+%26+Gil+Evans""
+
+02/25/17 03:32:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sting+%26+Edin+Karamazov""
+
+02/25/17 03:32:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sto+zv%C3%AD%C3%85%C2%99at""
+
+02/25/17 03:33:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%82%C2%B9%C3%A3%C2%83%C2%88%C3%A3%C2%83%C2%AC%C3%A3%C2%82%C2%A4%C3%A3%C2%83%C2%86%C3%A3%C2%83%C2%8A%C3%A3%C2%83%C2%BC""
+
+02/25/17 03:34:30 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"The+Strawbs""
+
+02/25/17 03:39:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sunn+O%29%29%29+%26+Boris""
+
+02/25/17 03:39:38 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Supafly+Inc.""
+
+02/25/17 03:39:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Supafly+vs.+Fishbowl""
+
+02/25/17 03:39:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"supercell+feat.+%C3%A5%C2%88%C2%9D%C3%A9%C2%9F%C2%B3%C3%A3%C2%83%C2%9F%C3%A3%C2%82%C2%AF""
+
+02/25/17 03:40:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%A1%C3%91%C2%83%C3%91%C2%80%C3%90%C2%B3%C3%90%C2%B0%C3%90%C2%BD%C3%90%C2%BE%C3%90%C2%B2%C3%90%C2%B0+%C3%90%C2%B8+%C3%90%C2%9E%C3%91%C2%80%C3%90%C2%BA%C3%90%C2%B5%C3%91%C2%81%C3%91%C2%82%C3%91%C2%80""
+
+02/25/17 03:41:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Matthew+Sweet+%26+Susanna+Hoffs""
+
+02/25/17 03:42:25 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Syke+%27n%27+Sugarstarr+%26+Alexandra+Prince""
+
+02/25/17 03:42:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"David+Sylvian+%26+Robert+Fripp""
+
+02/25/17 03:43:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%82%C2%BF%C3%A3%C2%83%C2%83%C3%A3%C2%82%C2%AD%C3%A3%C2%83%C2%BC%26%C3%A7%C2%BF%C2%BC""
+
+02/25/17 03:43:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Taha%2C+Khaled%2C+Faudel""
+
+02/25/17 03:44:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tall+Paul+vs.+INXS""
+
+02/25/17 03:44:50 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%8E%C2%89%C3%A7%C2%BD%C2%AE%C3%A6%C2%88%C2%90%C3%A5%C2%AE%C2%9F""
+
+02/25/17 03:45:10 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%94%C2%B0%C3%A4%C2%B8%C2%AD%C3%A7%C2%90%C2%86%C3%A6%C2%81%C2%B5""
+
+02/25/17 03:45:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%A2%C3%90%C2%B0%C3%90%C2%BD%C3%91%C2%86%C3%91%C2%8B+%C3%90%C2%9C%C3%90%C2%B8%C3%90%C2%BD%C3%91%C2%83%C3%91%C2%81""
+
+02/25/17 03:45:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%82%C2%BF%C3%A3%C2%83%C2%B3%C3%A3%C2%83%C2%9D%C3%A3%C2%83%C2%9D""
+
+02/25/17 03:46:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%84%C2%B0brahim+Tatl%C3%84%C2%B1ses""
+
+02/25/17 03:47:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Teddybears+STHLM""
+
+02/25/17 03:50:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"T%C3%84%C2%9B%C3%85%C2%BEkej+pokondr""
+
+02/25/17 03:50:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tha+Liks""
+
+02/25/17 03:54:33 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Johnny+Thunders+%26+The+Heartbreakers""
+
+02/25/17 03:57:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ashley+Tisdale+%26+Lucas+Grabeel""
+
+02/25/17 03:58:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tone-L%C3%85%C2%8Dc""
+
+02/25/17 03:59:50 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ana+Torroja+%26+Miguel+Bos%C3%A9""
+
+02/25/17 03:59:55 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tortoise+%26+Bonnie+%27Prince%27+Billy""
+
+02/25/17 04:00:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%8E%C2%9A%C3%8F%C2%8E%C3%8F%C2%83%C3%8F%C2%84%C3%8E%C2%B1%C3%8F%C2%82+%C3%8E%C2%A4%C3%8E%C2%BF%C3%8F%C2%85%C3%8F%C2%81%C3%8E%C2%BD%C3%8E%C2%AC%C3%8F%C2%82""
+
+02/25/17 04:01:43 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Pete+Townshend+%26+Ronnie+Lane""
+
+02/25/17 04:03:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"John+Travolta+%26+Olivia+Newton-John""
+
+02/25/17 04:03:49 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"T%C3%85%C2%99i+sestry""
+
+02/25/17 04:05:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%8E%C2%A4%C3%8F%C2%81%C3%8F%C2%8D%C3%8F%C2%80%C3%8E%C2%B5%C3%8F%C2%82""
+
+02/25/17 04:05:53 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"ANNA+TSUCHIYA+inspi%27+NANA%28BLACK+STONES%29""
+
+02/25/17 04:05:57 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A3%C2%81%C2%A4%C3%A3%C2%82%C2%93%C3%A3%C2%81%C2%8F%C3%A2%C2%99%C2%82""
+
+02/25/17 04:08:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"TV+Rock+vs.+Dukes+of+Windsor""
+
+02/25/17 04:09:51 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Tyrannosaurus+Rex""
+
+02/25/17 04:10:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A6%C2%A4%C2%8D%C3%A6%C2%9D%C2%BE%C3%A4%C2%BC%C2%B8%C3%A5%C2%A4%C2%AB""
+
+02/25/17 04:10:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"UK+Apachi+%26+Shy+FX""
+
+02/25/17 04:11:07 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ultrabeat+vs.+Scott+Brown""
+
+02/25/17 04:11:08 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ultrabeat+vs.+Darren+Styles""
+
+02/25/17 04:11:18 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Bj%C3%B6rn+Ulvaeus+%26+Benny+Andersson""
+
+02/25/17 04:14:10 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Utada""
+
+02/25/17 04:14:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%AE%C2%87%C3%A5%C2%A4%C2%9A%C3%A7%C2%94%C2%B0%C3%A3%C2%83%C2%92%C3%A3%C2%82%C2%AB%C3%A3%C2%83%C2%AB""
+
+02/25/17 04:14:27 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"V.SPY+V.SPY""
+
+02/25/17 04:15:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Frankie+Valli+%26+The+Four+Seasons""
+
+02/25/17 04:16:59 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%90%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%BA%C3%91%C2%81%C3%90%C2%B0%C3%90%C2%BD%C3%90%C2%B4%C3%91%C2%80+%C3%90%C2%92%C3%90%C2%B0%C3%91%C2%81%C3%90%C2%B8%C3%90%C2%BB%C3%91%C2%8C%C3%90%C2%B5%C3%90%C2%B2""
+
+02/25/17 04:17:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Stevie+Ray+Vaughan+%26+Buddy+Guy""
+
+02/25/17 04:17:42 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Louie+Vega+%26+Jay+%27Sinister%27+Seal%C3%A9e""
+
+02/25/17 04:18:16 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Caetano+Veloso+%26+Gilberto+Gil""
+
+02/25/17 04:22:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Helena+Vondr%C3%A1%C3%84%C2%8Dkov%C3%A1""
+
+02/25/17 04:23:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%92%C3%90%C2%BB%C3%90%C2%B0%C3%90%C2%B4%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%B8%C3%91%C2%80+%C3%90%C2%92%C3%91%C2%8B%C3%91%C2%81%C3%90%C2%BE%C3%91%C2%86%C3%90%C2%BA%C3%90%C2%B8%C3%90%C2%B9""
+
+02/25/17 04:23:44 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Porter+Wagoner+%26+Dolly+Parton""
+
+02/25/17 04:25:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Billy+Ward+and+The+Dominoes""
+
+02/25/17 04:25:36 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Warp+Brothers+vs.+Aquagen""
+
+02/25/17 04:26:00 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Dinah+Washington+%26+Brook+Benton""
+
+02/25/17 04:26:57 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Jan+Wayne+meets+Lena""
+
+02/25/17 04:28:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Till+West+%26+DJ+Delicious""
+
+02/25/17 04:30:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Whiteheart""
+
+02/25/17 04:32:40 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Sonny+Boy+Williamson+%26+The+Yardbirds""
+
+02/25/17 04:33:14 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Ann+%26+Nancy+Wilson""
+
+02/25/17 04:33:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Brian+Wilson+and+Van+Dyke+Parks""
+
+02/25/17 04:34:13 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Lars+Winnerb%C3%A4ck+och+Hovet""
+
+02/25/17 04:34:56 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Wisin+y+Yandel""
+
+02/25/17 04:35:15 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"W%C3%85%C2%82ochaty""
+
+02/25/17 04:37:17 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%90%C2%B3%C3%A5%C2%AE%C2%97%C3%A6%C2%86%C2%B2""
+
+02/25/17 04:38:19 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"XTM+%26+DJ+Chucky""
+
+02/25/17 04:38:32 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A7%C2%9F%C2%A2%C3%A4%C2%BA%C2%95%C3%A7%C2%94%C2%B0%C3%A7%C2%9E%C2%B3""
+
+02/25/17 04:38:37 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Akira+Yamaoka""
+
+02/25/17 04:41:02 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Neil+Young+%26+Crazy+Horse""
+
+02/25/17 04:41:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%A6%C2%96%C3%A7%C2%B2%C2%BE%C3%A5%C2%B8%C2%9D%C3%A5%C2%9C%C2%8B""
+
+02/25/17 04:41:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%A5%C2%AE%C2%B9%C3%A7%C2%A5%C2%96%C3%A5%C2%85%C2%92""
+
+02/25/17 04:41:48 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Yurtseven+Karde%C3%85%C2%9Fler""
+
+02/25/17 04:41:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Zabranjeno+Pu%C3%85%C2%A1enje""
+
+02/25/17 04:42:12 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Frank+Zappa+%26+Captain+Beefheart""
+
+02/25/17 04:42:46 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Z%C3%90%C2%B5%C3%90%C2%BC%C3%91%C2%84%C3%90%C2%B8%C3%91%C2%80%C3%90%C2%B0""
+
+02/25/17 04:43:23 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Hans+Zimmer+%26+Lisa+Gerrard""
+
+02/25/17 04:43:24 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Hans+Zimmer+%26+John+Powell""
+
+02/25/17 04:43:29 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%97%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%90%C2%B2%C3%91%C2%8C%C3%90%C2%B5+%C3%90%C2%B7%C3%90%C2%B2%C3%90%C2%B5%C3%91%C2%80%C3%90%C2%B5%C3%90%C2%B9""
+
+02/25/17 04:43:35 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Zion+y+Lennox""
+
+02/25/17 20:24:39 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Hans+Zimmer+%26+Lisa+Gerrard""
+
+02/25/17 20:24:41 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Hans+Zimmer+%26+John+Powell""
+
+02/25/17 20:24:45 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"%C3%90%C2%97%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%90%C2%B2%C3%91%C2%8C%C3%90%C2%B5+%C3%90%C2%B7%C3%90%C2%B2%C3%90%C2%B5%C3%91%C2%80%C3%90%C2%B5%C3%90%C2%B9""
+
+02/25/17 20:24:52 == No matches found on url: "http://musicbrainz.org/ws/2/artist/?query=artist:"Zion+y+Lennox""
+

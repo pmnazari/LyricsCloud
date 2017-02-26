@@ -72,6 +72,6 @@ foreach ($ids as $chartLyricsID) {
 
 echo json_encode($songs);
 
-$handle = fopen("artistSongs_debug.json", "w");
-fwrite($handle, json_encode($songs));
-fclose($handle);
+// $handle = fopen("artistSongs_debug.json", "w");
+// fwrite($handle, json_encode($songs));
+// fclose($handle);

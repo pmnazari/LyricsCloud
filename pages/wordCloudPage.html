@@ -3,6 +3,8 @@
     <h1 id="wordCloudTitle">Word Cloud Page</h1>
     
     <div id="wordCloud"></div>
+	<canvas id="lyricsCloudCanvas" width="600" height="300" style="display:none"></canvas>
+
     
     <div id="artistSearchBar"></div>
     
@@ -28,9 +30,8 @@
 </div>
 
 
-
+<!--
 <style>
-    
     body {
         background-color: gray;
     }
@@ -99,16 +100,13 @@ h1 {
     width: 80%;
 }
 
-
-
-
-    </style>
+</style>-->
 
 <script>
-	
+		
 	///
 	//FUNCTIONS:
-	///
+	///		
 	
 	function generateLyricsCloud() {
 		
@@ -127,9 +125,8 @@ h1 {
 		$("#share").removeProp("disabled");
 	}
 	
-	// Call this function when the page first loads and then whenever an artist is searched/added
-	function queryArtists(artistsToQuery) {
-	
+	// call this function when the page first loads, then whenever the artist list changes
+	function setTitle() {
 		// Set the title (of document and header)
 		var title = ""
 		$.each(artists, function(index, artist) {
@@ -139,15 +136,19 @@ h1 {
 		
 		document.title = title;
 		$("#wordCloudTitle").text(title);
+	}
+	
+	// Call this function when the page first loads and then whenever an artist is searched/added
+	function queryArtists(artistsToQuery) {
+	
+		setTitle();
 	
 		// TODO: set a good loading animation (like a spinning wheel)
 		$("#wordCloud").html("<h3 style='color:red'>Loading...</h3>");
 		$("#share").attr("disabled", true);
 			
 		// Make the parameter object
-		
-		console.log(artistsToQuery);
-		
+				
 		var ids = [];
 		$.each(artistsToQuery, function(key, value) {
 			ids.push(value.chartLyricsID);
@@ -156,7 +157,7 @@ h1 {
 		// Load the lyrics and generate the word cloud
 		$.ajax({ // Load artist lyrics
 			url: noServer ? "ajax/artistSongs_debug.json" : "ajax/artistSongs.php",
-			data: {ids: ids}, // TODO: fix this parameter
+			data: {ids: ids},
 			dataType: "json",
 			success: function(data) {
 				
@@ -192,12 +193,29 @@ h1 {
 		queryArtists([a]);
 	}
 	
+	//
+	// Post the image to Facebook!
+	//
+	// @param authToken: the FB authToken to use
+	//
+	function shareWordCloud(authToken) {
+		
+		var c = document.getElementById('lyricsCloudCanvas').toDataURL('image/png');
+		var encodedPng = c.substring(c.indexOf(',')+1,c.length);
+		var imageData = Base64Binary.decode(encodedPng);
+		
+		var caption = 'I used Lyrics Cloud to make this cloud for the artist(s): ' + $("#wordCloudTitle").text() + "!";
+		
+		postImageToFacebook(authToken, 'lyricsCloud.png', 'image/png', caption, imageData)
+	}
+	
 	///
 	//ON LOAD:
 	///
 	
 	// Initialize the lyrics cloud
 	if (songs.length > 0) { // we're coming back to this page
+		setTitle();
 		generateLyricsCloud();
 	} else { // first time to this page
 		searchArtists(artists);
@@ -206,7 +224,10 @@ h1 {
 	// Set up the Artist Search Bar
 	$("#artistSearchBar")
 		.load("components/artistSearchBar.html")
-		.on("yesSelection", function() {		
+		.on("yesSelection", function() {
+
+			alert("enable");
+		
 			$("#search").removeProp("disabled");
 			$("#add").removeProp("disabled");
 		})
@@ -233,11 +254,37 @@ h1 {
 		addArtist(allArtists[artistID]);
 	});
 
+	
 	// Set up the Share Button
 	$("#share").click(function() {
+				
+		FB.getLoginStatus(function(response) { // Check if the user is already logged in
+			 			 
+			 if (response.status === 'connected') {
+				shareWordCloud(response.authResponse.accessToken);
+			 } else {
+				FB.login(function(response) { // Prompt Facebook login
+					FB.getLoginStatus(function(response) { // Check if the user successfully logged in
+						 
+						 if (response.status === 'connected') {
+							shareWordCloud(response.authResponse.accessToken);
+						 }
+						 
+						 // If the user didn't log in, then forget about it!
+					});
+				}, {scope: 'public_profile,email,publish_actions'});
+			}
+		});
 		
-		// TODO: Share to Facebook
-		alert("Share to Facebook!");
 	});
 	
+	// Draw a placeholder image in the lyrics cloud canvas
+	$(function() {
+		var c = document.getElementById("lyricsCloudCanvas");
+		var ctx = c.getContext("2d");
+		ctx.beginPath();
+		ctx.arc(95,50,40,0,2*Math.PI);
+		ctx.stroke();	
+	});
+		
 </script>

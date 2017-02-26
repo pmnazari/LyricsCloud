@@ -51,14 +51,16 @@ for (; $start < count($artists_values); $start+=$batch) { // For each batch:
 	}
 
 	// Save Intermediate JSON
-
-	// $handle = fopen("artists1.json", "w");
-	// fwrite($handle, json_encode($artists));
-	// fclose($handle);
 	
-	// $handle = fopen("artists2.json", "w");
-	// fwrite($handle, json_encode($artists));
-	// fclose($handle);
+	// The 2 save files protect against the possibility that the program crashes (memory overflow) when opening one and loses all the data
+	
+	$handle = fopen("artists1.json", "w");
+	fwrite($handle, json_encode($artists));
+	fclose($handle);
+	
+	$handle = fopen("artists2.json", "w");
+	fwrite($handle, json_encode($artists));
+	fclose($handle);
 
 	echo count($artists) . " artists saved!\n";
 }

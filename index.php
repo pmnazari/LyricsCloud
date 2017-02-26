@@ -5,6 +5,7 @@
 		<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 		<script src="scripts/helper.js"></script>
+		<script src="scripts/postImageToFacebook.js"></script>
 		<script>
 		
 			///
@@ -13,6 +14,26 @@
 			
 			var noServer = (document.location.search.indexOf("no-server") != -1);
 			
+			///
+			// Init Facebook:
+			///
+			window.fbAsyncInit = function() {				
+				FB.init({
+					appId      : '1273352139424003',
+					cookie     : true,  // enable cookies to allow the server to access 
+										// the session
+					xfbml      : true,  // parse social plugins on this page
+					version    : 'v2.8' // use graph api version 2.8
+				});
+			};
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+						
 			////
 			// Page Loading Infrastructure:
 			////
@@ -35,7 +56,7 @@
 			function loadPage(name) {
 				
 				if (name in pages) {
-					$('body').html(pages[name]);
+					$('#page').html(pages[name]);
 				} else {
 					alert("No such page: " + name + "!");
 				}
@@ -78,5 +99,6 @@
 		</script>
 	</head>
 	<body>
+		<div id="page"></div>
 	</body>
 </html>
