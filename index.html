@@ -7,13 +7,7 @@
 		<script src="scripts/helper.js"></script>
 		<script src="scripts/postImageToFacebook.js"></script>
 		<script>
-		
-			///
-			// Determine if no-server mode:
-			///
-			
-			var noServer = (document.location.search.indexOf("no-server") != -1);
-			
+					
 			///
 			// Init Facebook:
 			///
@@ -85,7 +79,7 @@
 				preparePage("lyrics", "pages/lyricsPage.html");
 				
 				$.ajax({ // Load all artist metadata from the server
-					url: noServer ? "cache/artists.json" : "ajax/allArtistMetadata.php",
+					url: "ajax/allArtistMetadata.php",
 					dataType: "json",
 					async: false,
 					success: function(data) {

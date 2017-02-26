@@ -42,7 +42,6 @@ h1 {
     width: 100%;
 }
 .button {
-    text-align: center;
     position: relative;
     background-color: purple;
     border: none;
@@ -141,7 +140,7 @@ h1 {
 			
 		// Load the lyrics and generate the word cloud
 		$.ajax({ // Load artist lyrics
-			url: noServer ? "ajax/artistSongs_debug.json" : "ajax/artistSongs.php",
+			url: "ajax/artistSongs.php",
 			data: {ids: ids},
 			dataType: "json",
 			success: function(data) {
