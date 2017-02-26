@@ -46,7 +46,7 @@
 				$.get({
 					url: location,
 					async: false,
-					success: function( data ) {
+					success: function( data ) {					
 					  pages[name] = data;
 					}
 				});
@@ -54,7 +54,7 @@
 			
 			// Display a page by loading its HTML into the body element
 			function loadPage(name) {
-				
+								
 				if (name in pages) {
 					$('#page').html(pages[name]);
 				} else {
