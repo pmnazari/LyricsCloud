@@ -30,7 +30,7 @@ An Artist Search Bar will provide the 'yesSelection' and 'noSelection' events.
 			value: artist.chartLyricsID,
 			label: artist.name,
 			popularity: artist.popularity,
-			imageURL: artist.imageURL
+			imageURL: artist.wikipediaImageURL
 		});
 	});
 	
@@ -66,6 +66,7 @@ An Artist Search Bar will provide the 'yesSelection' and 'noSelection' events.
 	  
 	  return $( "<li>" )
 		.append( "<div>" + item.label + "</div>" )
+		.append("<img src='" + item.imageURL + "' />")
 		.appendTo( ul );
 	};
 	

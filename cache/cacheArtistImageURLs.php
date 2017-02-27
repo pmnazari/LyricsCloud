@@ -17,7 +17,7 @@ function errorLog($message) {
 $artists = json_decode(file_get_contents("artists.json"), true);
 //$artists = array('UpWAAYdPsEWv' => $artists['UpWAAYdPsEWv_yxvBzCjvg']);
 
-// STEP 4 Image Search Process: query the image URL of each artist
+// STEP 5 Image Search Process: query the image URL of each artist
 
 $i = 0;
 foreach ($artists as $artist) {
