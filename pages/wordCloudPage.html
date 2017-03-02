@@ -3,10 +3,10 @@
     <h1 id="wordCloudTitle">Word Cloud Page</h1>
     
 	<div id="wordCloud">
-		<div id="wordCloudLoading" style="display:none"><h3 style="color:red">Loading...</h3></div>
+		<div id="wordCloudLoading" style="display:none"><img src="components/loading.gif" width=100 height=100></div>
 		<svg id="wordCloudSVG"></svg>
 		<canvas id="lyricsCloudCanvas" width="1200" height="500" style="display:none"></canvas>
-    </div>
+    	</div>
     
 	<div id="searchControls">
 		<div id="artistSearchBar"></div>
@@ -16,7 +16,7 @@
 		<input type="button" id="add"  class="button" value="Add" disabled="true" />
 		
 		<input type="button" id="share" class="button" value="Share" disabled="true" />
-    </div>
+    	</div>
     
 </div>
 
@@ -35,6 +35,14 @@
 	height: 500;
 	border: 2px black solid;
 	background-color: white;
+
+	display: table
+}
+
+#wordCloudLoading {
+
+	vertical-align: middle;
+	display: table-cell;
 }
 
 #searchControls {
@@ -75,19 +83,21 @@
 		}
 		
 		//exclude commonly used words
+		
+		var common = ["the", "be", "to", "of", "and", "a", "in", "not", 
+			"that", "it", "for", "on", "as", "do", "at", "this", 
+			"but", "by", "from", "or", "an", "so", "if", "into", 
+			"its", "it's", "about", "there", "their", "i'm", "i'll", 
+			"you", "you're", "are", "am", "i", "my", "your", "that's", 
+			"is", "than", "then", "what", "when", "was", "did", 
+			"too", "there's", "hey", "ooh", "who", "been", "i've", 
+			"you'll", "we'll", "she'll", "he'll", "she's", "he's", 
+			"you've", "have", "with", "that's", "yeah", "ooh", "aah", 
+			"we're", "she", "he", "they", "we", "gonna", "wanna", 
+			"just", "hah", "i'd", "you'd", "our", "your", "because", 
+			"cuz", "has", "br", "quot", "amp"];		
 
-		if(["the", "be", "to", "of", "and", "a", "in", "not", 
-		"that", "it", "for", "on", "as", "do", "at", "this", 
-		"but", "by", "from", "or", "an", "so", "if", "into", 
-		"its", "it's", "about", "there", "their", "i'm", "i'll", 
-		"you", "you're", "are", "am", "i", "my", "your", "that's", 
-		"is", "than", "then", "what", "when", "was", "did", 
-		"too", "there's", "hey", "ooh", "who", "been", "i've", 
-		"you'll", "we'll", "she'll", "he'll", "she's", "he's", 
-		"you've", "have", "with", "that's", "yeah", "ooh", "aah", 
-		"we're", "she", "he", "they", "we", "gonna", "wanna", 
-		"just", "hah", "i'd", "you'd", "our", "your", "because", 
-		"cuz", "has"].indexOf(word) > -1) {
+		if(common.indexOf(word) > -1) {
 			return false;
 		}
 
@@ -95,6 +105,8 @@
 		return word;
 	}
 	
+	// Generate a lyrics cloud from the 'songs' variable.
+	// Update the SVG and Canvas
 	function generateLyricsCloud() {
 				
 		// count words
@@ -122,8 +134,8 @@
 		// only want 250 most frequent words
 		words = words.slice(0, 250);
 		
-		var maxSize = 80;
-		var minSize = 18;
+		var maxSize = 60;
+		var minSize = 14;
 		
 		var currentMax = words[0].size;
 		var currentMin = words[words.length-1].size;
@@ -138,40 +150,40 @@
 		
 	    d3.layout.cloud().size([1200, 500])
 		  .words(words)
-		  .padding(5)
-		  .rotate(function() { return 0; })
-		  .spiral("rectangular")
-		  //.font("Impact")
-		  .fontSize(function(d) { return d.size; })
-		  .on("end", function (words) {
-		  
-				$("#wordCloudLoading").hide(0);
+		  .padding(5) //padding between words
+		  .rotate(function() { return 0; }) //no word rotation
+		  .spiral("rectangular") //rectangular shape
+		  .fontSize(function(d) { return d.size; }) //font size
+		  .on("end", function (words) { //when the cloud is layed out:
 		  
 				// draw in the svg tag
-			  d3.select("#wordCloudSVG")
-				.attr("width", 1200)
-				.attr("height", 500)
-			  .append("g")
-				.attr("transform", "translate(600,250)")
-			  .selectAll("text")
-				.data(words)
-			  .enter().append("text")
-				.style("font-size", function(d) { return d.size + "px"; })
-				.style("font-family", "serif")
-				.style("fill", function(d, i) { return colors[Math.floor(Math.random() * colors.length)]; })
-				.attr("text-anchor", "middle")
-				.attr("transform", function(d) {
-				  return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-				})
-				.text(function(d) { return d.text; })
-				.on("click", function(d, i) {
-					word = d.text;
-					loadPage("songList");
-				});
-				
+				  d3.select("#wordCloudSVG")
+					.attr("width", 1200)
+					.attr("height", 500)
+				  .append("g")
+					.attr("transform", "translate(600,250)")
+				  .selectAll("text")
+					.data(words)
+				  .enter().append("text")
+					.style("font-size", function(d) { return d.size + "px"; })
+					.style("font-family", "serif")
+					.style("fill", function(d, i) { return colors[Math.floor(Math.random() * colors.length)]; })
+					.attr("text-anchor", "middle")
+					.attr("transform", function(d) {
+					  return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+					})
+					.text(function(d) { return d.text; })
+					.on("click", function(d, i) {
+						word = d.text;
+						loadPage("songList");
+					});
+
+				$("#wordCloudLoading").hide(0);
+				$("#wordCloudSVG").show(0);
+		
 				// draw in the canvas tag
 				canvg('lyricsCloudCanvas', $("#wordCloudSVG").html());
-				
+		
 				$("#share").removeProp("disabled");
 		  })
 		  .start();
@@ -194,12 +206,12 @@
 	function queryArtists(artistsToQuery) {
 	
 		setTitle();
-	
-		// TODO: set a good loading animation (like a spinning wheel)
-		$("#wordCloudLoading").show(0);
+		
+		$("#wordCloudSVG").hide(0);
 		$("#wordCloudSVG").html("");
+		$("#wordCloudLoading").show(0);
 		$("#share").attr("disabled", true);
-			
+
 		// Make the parameter object
 				
 		var ids = [];
