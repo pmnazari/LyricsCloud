@@ -8,6 +8,40 @@ a {
 	text-decoration: underline;
 }
 
+ul {
+	list-style-type: none;
+}
+
+#page {
+	width: 100%;
+	height: 100%;
+}
+
+#artistSearchPage {
+	text-align: center;
+	margin: auto;
+	/*padding-top: 30%;*/
+}
+
+#artistSearchBar {
+	vertical-align: center;
+	margin: auto;
+}
+
+#artistSearchTextField {
+	width: 33%;
+	padding: 1em;
+	margin: 1em;
+}
+
+#wordCloud {
+	width: 1200;
+	height: 500;
+	border: 2px black solid;
+	background-color: white;
+}
+
+
 .highlight {
 	background-color: yellow;
 }
@@ -36,6 +70,7 @@ a {
 
 .ui-autocomplete {
 	background-color: #EEE;
+	width: 33%;
 }
 
 /* here put styles that need to apply to all pages */

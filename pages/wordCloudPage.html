@@ -2,9 +2,11 @@
     
     <h1 id="wordCloudTitle">Word Cloud Page</h1>
     
-    <div id="wordCloud"></div>
-    <canvas id="lyricsCloudCanvas" width="600" height="300" style="display:none"></canvas>
-    
+	<div id="wordCloud">
+		<div id="wordCloudLoading" style="display:none"><h3 style="color:red">Loading...</h3></div>
+		<svg id="wordCloudSVG"></svg>
+		<canvas id="lyricsCloudCanvas" width="1200" height="500" style="display:none"></canvas>
+    </div
     
     <div id="artistSearchBar"></div>
     
@@ -77,23 +79,99 @@ h1 {
 	//FUNCTIONS:
 	///		
 	
+	// if the word is usable, return a standardized (lowercase) verison of it
+	// if not, return false
+	function validateWord(word) {
+		word = word.toLowerCase();
+		if (word.length < 3) {
+			return false;
+		}
+		
+		// TODO: exclude commonly used words
+		
+		return word;
+	}
+	
 	function generateLyricsCloud() {
 		
-		// TODO: generate lyrics cloud from 'songs' global var
-		// put HTML lyrics cloud in #wordCloud element
-		// also draw lyrics cloud in #lyricsCloudCanvas in case of sharing
+		// count words
+		var words = {};
+		$.each(songs, function(index, song) { // foreach song
+			var songWords = song.lyrics.match(/\b[a-zA-Z']+\b/g);
+			$.each(songWords, function(index, word) { // foreach word
+				word = validateWord(word);
+				if (word) { // if this is a word to include
+					words[word] = words[word] ? words[word] + 1 : 1;
+				}
+			});
+		});
 		
-		var words = songs[0].lyrics.match(/\b[a-zA-Z']+\b/g);
 		
-		$("#wordCloud").html("<a class='wordCloudLink' value='" + words[0] + "' style='color:purple'>" + words[0] + "</a>"); // temporary
-		
-		$(".wordCloudLink").click(function() {
-			word = $(this).attr("value");
+		words = Object.keys(words).map(function(word) {
+			return {text: word, size: words[word]};
+		});
 			
-			loadPage("songList");
-		})
+		// sort words
+		words = words.sort(function(a, b) {
+			return b.size - a.size;
+		});
 		
-		$("#share").removeProp("disabled");
+		// only want 250 most frequent words
+		words = words.slice(0, 250);
+		
+		var maxSize = 80;
+		var minSize = 18;
+		
+		var currentMax = words[0].size;
+		var currentMin = words[words.length-1].size;
+
+		$.each(words, function(key, word) {
+			// scale the sizes between maxSize and minSize;
+			words[key].size = (word.size - currentMin) / (currentMax - currentMin) * (maxSize - minSize) + minSize;
+		});
+		
+		// these colors will be chosen from randomly
+		var colors = ["red", "blue", "green", "orange", "purple"];
+		
+	    d3.layout.cloud().size([1200, 500])
+		  .words(words)
+		  .padding(5)
+		  .rotate(function() { return 0; })
+		  .spiral("rectangular")
+		  //.font("Impact")
+		  .fontSize(function(d) { return d.size; })
+		  .on("end", function (words) {
+		  
+				$("#wordCloudLoading").hide(0);
+		  
+				// draw in the svg tag
+			  d3.select("#wordCloudSVG")
+				.attr("width", 1200)
+				.attr("height", 500)
+			  .append("g")
+				.attr("transform", "translate(600,250)")
+			  .selectAll("text")
+				.data(words)
+			  .enter().append("text")
+				.style("font-size", function(d) { return d.size + "px"; })
+				.style("font-family", "serif")
+				.style("fill", function(d, i) { return colors[Math.floor(Math.random() * colors.length)]; })
+				.attr("text-anchor", "middle")
+				.attr("transform", function(d) {
+				  return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+				})
+				.text(function(d) { return d.text; })
+				.on("click", function(d, i) {
+					word = d.text;
+					loadPage("songList");
+				});
+				
+				// draw in the canvas tag
+				canvg('lyricsCloudCanvas', $("#wordCloudSVG").html());
+				
+				$("#share").removeProp("disabled");
+		  })
+		  .start();
 	}
 	
 	// call this function when the page first loads, then whenever the artist list changes
@@ -115,7 +193,7 @@ h1 {
 		setTitle();
 	
 		// TODO: set a good loading animation (like a spinning wheel)
-		$("#wordCloud").html("<h3 style='color:red'>Loading...</h3>");
+		$("#wordCloudLoading").show(0);
 		$("#share").attr("disabled", true);
 			
 		// Make the parameter object
