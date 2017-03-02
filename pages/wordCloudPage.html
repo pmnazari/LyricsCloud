@@ -6,71 +6,58 @@
 		<div id="wordCloudLoading" style="display:none"><h3 style="color:red">Loading...</h3></div>
 		<svg id="wordCloudSVG"></svg>
 		<canvas id="lyricsCloudCanvas" width="1200" height="500" style="display:none"></canvas>
-    </div
+    </div>
     
-    <div id="artistSearchBar"></div>
-    
-    <input type="button" id="search" class="button button2"  value="Search"  disabled="true" />
-    
-    <input type="button" id="add"  class="button button3" value="Add" disabled="true" />
-    
-    <input type="button" id="share" class="button button4" value="Share" disabled="true" />
-    
-    
+	<div id="searchControls">
+		<div id="artistSearchBar"></div>
+		
+		<input type="button" id="search" class="button"  value="Search"  disabled="true" />
+		
+		<input type="button" id="add"  class="button" value="Add" disabled="true" />
+		
+		<input type="button" id="share" class="button" value="Share" disabled="true" />
+    </div>
     
 </div>
 
 
-
 <style>
 
-
-div.relative {
-    position: relative;
-    width: 40px;
-    height: 20px;
-    border: 3px solid #73AD21;
-}
-h1 {
-    text-align: center;
-    left: 0;
-    line-height: 200px;
-    margin: auto;
-    margin-top: -100px;
-    position: absolute;
-    top: 30%;
-    width: 100%;
+#wordCloudPage {
+	text-align: center;
+	margin: auto;
+	margin-top: 50px;
 }
 
-.button2 {
-    text-align: center;
-    left: 750;
-    margin-top: -100px;
-    position: absolute;
-    top: 55%;
-    
-}
-.button3 {
-    text-align: center;
-    left: 655;
-    margin-top: -100px;
-    position: absolute;
-    top: 55%;
-    
-}
-.button4 {
-    text-align: center;
-    left: 550;
-    margin-top: -100px;
-    position: absolute;
-    top: 55%;
-    
+#wordCloud {
+	margin: auto;
+	width: 1200;
+	height: 500;
+	border: 2px black solid;
+	background-color: white;
 }
 
-    </style>
+#searchControls {
+	width: 33%;
+	margin: auto;
+	padding: 1em;
+}
 
+#search {
+	float: left;
+	width: 32%;
+}
 
+#add {
+	width: 32%;
+}
 
+#share {
+	float: right;
+	width: 32%;
+}
+
+</style>
 
 
 <script>
@@ -93,7 +80,7 @@ h1 {
 	}
 	
 	function generateLyricsCloud() {
-		
+				
 		// count words
 		var words = {};
 		$.each(songs, function(index, song) { // foreach song
@@ -194,6 +181,7 @@ h1 {
 	
 		// TODO: set a good loading animation (like a spinning wheel)
 		$("#wordCloudLoading").show(0);
+		$("#wordCloudSVG").html("");
 		$("#share").attr("disabled", true);
 			
 		// Make the parameter object
@@ -255,7 +243,9 @@ h1 {
 		
 		var caption = 'I used Lyrics Cloud to make this cloud for the artist(s): ' + $("#wordCloudTitle").text() + "!";
 		
-		postImageToFacebook(authToken, 'lyricsCloud.png', 'image/png', caption, imageData)
+		postImageToFacebook(authToken, 'lyricsCloud.png', 'image/png', caption, imageData);
+		
+		FB.logout(); // log the app out of Facebook
 	}
 	
 	///
@@ -322,15 +312,6 @@ h1 {
 			}
 		});
 		
-	});
-	
-	// Draw a placeholder image in the lyrics cloud canvas
-	$(function() {
-		var c = document.getElementById("lyricsCloudCanvas");
-		var ctx = c.getContext("2d");
-		ctx.beginPath();
-		ctx.arc(95,50,40,0,2*Math.PI);
-		ctx.stroke();	
 	});
 		
 </script>

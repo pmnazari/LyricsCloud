@@ -15,6 +15,28 @@ An Artist Search Bar will provide the 'yesSelection' and 'noSelection' events.
 		display: none;
 	}
 	
+	.suggestionImage {
+		float: right;
+	}
+	
+	.ui-autocomplete {
+		background-color: #EEE;
+		width: 33%;
+		padding: 5px;
+	}
+	
+	.ui-autocomplete li:nth-child(2n+1) {
+		background-color: #DDD;
+	}
+
+	#artistSearchTextField {
+		width: 100%;
+		padding: 1em;
+		
+		border: 2px #D00BE6 solid;
+	}
+
+	
 	/* Here put styles that only apply to the Artist Search Bar */
 </style>
 
@@ -36,7 +58,7 @@ An Artist Search Bar will provide the 'yesSelection' and 'noSelection' events.
 	
 	// Create the autocomplete
 	$("#artistSearchTextField").autocomplete({
-		minLength: 3,
+		minLength: 4,
 		source: searchObject,
 		response: function(event, ui) { // before display suggestions
 						
@@ -65,8 +87,13 @@ An Artist Search Bar will provide the 'yesSelection' and 'noSelection' events.
 	  // TODO: Make this look good (see http://jqueryui.com/autocomplete/#custom-data)
 	  
 	  return $( "<li>" )
-		.append( "<div>" + item.label + "</div>" )
-		.append("<img src='" + item.imageURL + "' />")
+		.append(
+			$("<table style='width:100%'>")
+				.append($("<tr>")
+					.append( "<td><div>" + item.label + "</div></td>" )
+					.append("<td><img class='suggestionImage' src='" + item.imageURL + "' /></td>")		
+				)
+		)
 		.appendTo( ul );
 	};
 	

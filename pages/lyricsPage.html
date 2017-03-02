@@ -1,7 +1,7 @@
 <div id="lyricsPage">
     
-    <a id="backToWordCloud" class="left">Back to Word Cloud</a>
-    <a id="backToSongList" class="right">Back to Song List</a>
+    <a id="backToWordCloud">Back to Word Cloud</a>
+	<a id="backToSongList">Back to Song List</a>
     <h1 id="lyricsTitle">Lyrics Page</h1>
     <div id="lyrics"></div>
     
@@ -9,36 +9,32 @@
 
 <style>
 
-h1 {
-    text-align: center;
-    left: 0;
-    line-height: 200px;
-    margin: auto;
-    margin-top: -100px;
-    position: absolute;
-    top: 30%;
-    width: 100%;
+#lyricsPage {
+	text-align: center;
+	margin-top: 25px;
 }
 
-.right {
-    text-align: center;
-    left: 210;
-    line-height: 200px;
-    margin: auto;
-    margin-top: -100px;
-    position: absolute;
-    top: 20%;
-    width: 80%;
+#backToWordCloud {
+	margin-right: 25px;
 }
-.left {
-    text-align: center;
-    left: 60;
-    line-height: 200px;
-    margin: auto;
-    margin-top: -100px;
-    position: absolute;
-    top: 20%;
-    width: 80%;
+
+#lyricsTitle {
+	margin-top: 25px;
+}
+
+#lyrics {
+	/*
+	background-color: white;
+	border: 2px black solid;
+	width: 800px;
+	*/
+	margin: auto;
+	padding: 10px;
+	line-height: 150%;
+}
+
+.highlight {
+	background-color: yellow;
 }
 
 </style>
