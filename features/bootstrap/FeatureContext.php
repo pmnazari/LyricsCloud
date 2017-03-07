@@ -1,6 +1,7 @@
 <?php
 
 require_once "vendor/autoload.php";
+require_once "vendor/phpunit/phpunit/src/Framework/Assert/Functions.php";
 
 use Behat\Behat\Tester\Exception\PendingException;
 use Behat\Behat\Context\Context;
@@ -34,15 +35,20 @@ class FeatureContext implements Context
 		$this->session->start();
 	}
 
+	public function __destruct()
+	{
+		$this->session->stop();
+	}
+
 	/**
 	* @Given there is an artist search bar
 	*/
 	public function thereIsAnArtistSearchBar()
 	{
-		//$this->session->visit('http://localhost:80/LyricsCloud/');
-		//$this->page = $this->session->getPage();
+		$this->session->visit('http://localhost:80/LyricsCloud/');
+		$this->page = $this->session->getPage();
 		
-		//$this->artistSearchBar = $this->page->find("css", "#artistSearchBar");
+		$this->artistSearchBar = $this->page->find("css", "#artistSearchBar");
 	}
 
 	/**
@@ -50,8 +56,8 @@ class FeatureContext implements Context
 	*/
 	public function theArtistSearchBarShouldBeEmpty()
 	{
-		//$artistSearchTextField = $this->artistSearchBar->find("#artistSearchTextField");
-		
-		//echo $artistSearchTextField->getAttribute("value");
+		$artistSearchTextField = $this->artistSearchBar->find("css", "#artistSearchTextField");
+
+		assertEquals("", $artistSearchTextField->getValue());
 	}
 }
