@@ -49,7 +49,29 @@ Temporary Items
 #################################################
 
 # Composer, etc.
-vendor/
+vendor/*
+
+# But we need these 2 files I (Phillip) modified:
+!vendor/behat/
+vendor/behat/*
+!vendor/behat/behat/
+vendor/behat/behat/*
+!vendor/behat/behat/src
+vendor/behat/behat/src/*
+!vendor/behat/behat/src/Behat
+vendor/behat/behat/src/Behat/*
+!vendor/behat/behat/src/Behat/Testwork
+vendor/behat/behat/src/Behat/Testwork/*
+!vendor/behat/behat/src/Behat/Testwork/Ordering
+vendor/behat/behat/src/Behat/Testwork/Ordering/*
+
+!vendor/behat/behat/src/Behat/Testwork/Ordering/ServiceContainer
+vendor/behat/behat/src/Behat/Testwork/Ordering/ServiceContainer/*
+!vendor/behat/behat/src/Behat/Testwork/Ordering/ServiceContainer/OrderingExtension.php
+
+!vendor/behat/behat/src/Behat/Testwork/Ordering/Orderer
+vendor/behat/behat/src/Behat/Testwork/Ordering/Orderer/*
+!vendor/behat/behat/src/Behat/Testwork/Ordering/Orderer/DoubleRandomOrderer.php
 
 
 
